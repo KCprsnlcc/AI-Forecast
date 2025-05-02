@@ -1,0 +1,2755 @@
+date,type,amount,category
+2019-05-01,expense,1533.07,Housing
+2019-05-01,expense,210.0,Utilities
+2019-05-01,expense,203.45,Insurance
+2019-05-01,expense,62.49,Subscriptions
+2019-05-01,expense,87.95,Entertainment
+2019-05-02,expense,138.96,Dining Out
+2019-05-02,expense,15.6,Personal Care
+2019-05-03,income,800.94,Freelance
+2019-05-04,expense,149.38,Groceries
+2019-05-04,expense,31.2,Transportation
+2019-05-05,income,1232.96,Rental Income
+2019-05-06,income,794.5,Side Business
+2019-05-06,expense,96.04,Dining Out
+2019-05-07,expense,109.34,Shopping
+2019-05-08,income,634.12,Freelance
+2019-05-10,income,325.67,Investments
+2019-05-10,expense,32.81,Personal Care
+2019-05-11,expense,141.4,Groceries
+2019-05-11,expense,1.23,Education
+2019-05-11,expense,39.66,Transportation
+2019-05-13,income,681.75,Freelance
+2019-05-14,expense,143.16,Dining Out
+2019-05-15,income,2250.0,Salary
+2019-05-16,expense,210.21,Shopping
+2019-05-17,expense,138.08,Dining Out
+2019-05-18,expense,134.64,Groceries
+2019-05-19,expense,84.54,Transportation
+2019-05-23,income,951.74,Freelance
+2019-05-24,expense,47.37,Shopping
+2019-05-24,expense,95.51,Healthcare
+2019-05-25,expense,52.54,Shopping
+2019-05-25,expense,67.89,Transportation
+2019-05-25,expense,131.62,Groceries
+2019-05-26,expense,160.42,Healthcare
+2019-05-30,income,2250.0,Salary
+2019-05-30,income,886.93,Freelance
+2019-05-30,expense,35.26,Entertainment
+2019-06-01,expense,128.69,Groceries
+2019-06-01,expense,1494.86,Housing
+2019-06-01,expense,214.85,Utilities
+2019-06-01,expense,191.16,Insurance
+2019-06-01,expense,62.03,Subscriptions
+2019-06-02,expense,138.43,Dining Out
+2019-06-02,expense,53.98,Education
+2019-06-03,expense,115.9,Dining Out
+2019-06-05,income,1243.81,Rental Income
+2019-06-06,income,757.0,Freelance
+2019-06-06,expense,83.01,Transportation
+2019-06-07,expense,147.44,Healthcare
+2019-06-08,income,605.09,Side Business
+2019-06-08,expense,147.57,Groceries
+2019-06-08,expense,32.11,Transportation
+2019-06-08,expense,95.1,Gifts
+2019-06-09,expense,90.6,Dining Out
+2019-06-09,expense,23.17,Personal Care
+2019-06-09,expense,42.78,Transportation
+2019-06-10,income,381.37,Investments
+2019-06-11,expense,82.83,Entertainment
+2019-06-11,expense,110.4,Dining Out
+2019-06-14,expense,88.18,Entertainment
+2019-06-15,income,2250.0,Salary
+2019-06-15,income,775.93,Side Business
+2019-06-15,expense,112.0,Groceries
+2019-06-15,expense,202.46,Shopping
+2019-06-16,expense,49.38,Entertainment
+2019-06-16,income,539.08,Side Business
+2019-06-16,expense,141.71,Dining Out
+2019-06-17,expense,95.28,Dining Out
+2019-06-18,expense,69.48,Dining Out
+2019-06-19,income,952.45,Freelance
+2019-06-19,expense,133.35,Shopping
+2019-06-19,expense,234.41,Shopping
+2019-06-20,expense,95.51,Entertainment
+2019-06-20,expense,57.4,Transportation
+2019-06-22,expense,148.09,Groceries
+2019-06-22,income,696.95,Freelance
+2019-06-23,expense,115.3,Dining Out
+2019-06-23,expense,142.94,Dining Out
+2019-06-24,expense,192.83,Shopping
+2019-06-25,expense,43.41,Shopping
+2019-06-25,expense,35.79,Shopping
+2019-06-26,income,643.44,Freelance
+2019-06-27,expense,140.76,Dining Out
+2019-06-27,income,838.17,Side Business
+2019-06-28,expense,212.63,Shopping
+2019-06-28,income,745.47,Side Business
+2019-06-29,expense,121.57,Groceries
+2019-06-30,income,2250.0,Salary
+2019-07-01,expense,1531.79,Housing
+2019-07-01,expense,209.75,Utilities
+2019-07-01,expense,191.51,Insurance
+2019-07-01,expense,65.69,Subscriptions
+2019-07-01,expense,58.2,Dining Out
+2019-07-04,expense,154.76,Healthcare
+2019-07-05,expense,65.27,Transportation
+2019-07-05,expense,77.68,Entertainment
+2019-07-05,income,1255.87,Rental Income
+2019-07-06,expense,105.55,Groceries
+2019-07-06,expense,89.22,Transportation
+2019-07-07,expense,41.15,Transportation
+2019-07-08,expense,53.4,Gifts
+2019-07-09,expense,54.23,Dining Out
+2019-07-10,income,373.25,Investments
+2019-07-10,expense,38.41,Personal Care
+2019-07-10,expense,36.43,Healthcare
+2019-07-11,expense,193.52,Healthcare
+2019-07-11,income,568.25,Side Business
+2019-07-12,income,645.51,Freelance
+2019-07-12,expense,34.26,Transportation
+2019-07-12,expense,66.08,Entertainment
+2019-07-13,expense,112.2,Groceries
+2019-07-13,expense,106.92,Dining Out
+2019-07-15,income,2250.0,Salary
+2019-07-15,income,612.78,Side Business
+2019-07-15,expense,116.35,Dining Out
+2019-07-16,expense,82.8,Entertainment
+2019-07-16,expense,33.99,Entertainment
+2019-07-17,expense,142.56,Shopping
+2019-07-18,expense,145.47,Dining Out
+2019-07-18,expense,37.85,Entertainment
+2019-07-20,income,720.95,Freelance
+2019-07-20,income,579.6,Side Business
+2019-07-20,expense,147.37,Groceries
+2019-07-23,expense,34.17,Entertainment
+2019-07-24,income,547.83,Side Business
+2019-07-24,expense,154.74,Shopping
+2019-07-25,expense,56.76,Entertainment
+2019-07-25,income,592.35,Side Business
+2019-07-26,expense,162.95,Shopping
+2019-07-27,income,710.04,Freelance
+2019-07-27,income,660.2,Side Business
+2019-07-27,expense,144.97,Groceries
+2019-07-28,expense,40.27,Transportation
+2019-07-28,expense,102.34,Dining Out
+2019-07-29,expense,96.84,Entertainment
+2019-07-29,expense,104.23,Dining Out
+2019-07-30,expense,64.68,Dining Out
+2019-07-30,income,1001.13,Freelance
+2019-07-30,income,2250.0,Salary
+2019-07-31,income,481.2,Side Business
+2019-08-01,expense,1516.03,Housing
+2019-08-01,expense,209.18,Utilities
+2019-08-01,expense,198.7,Insurance
+2019-08-01,expense,64.37,Subscriptions
+2019-08-01,expense,23.06,Personal Care
+2019-08-03,expense,149.53,Groceries
+2019-08-03,expense,126.19,Shopping
+2019-08-03,expense,54.07,Entertainment
+2019-08-04,expense,27.38,Entertainment
+2019-08-04,expense,119.7,Gifts
+2019-08-05,income,1183.91,Rental Income
+2019-08-06,expense,56.22,Transportation
+2019-08-07,expense,32.65,Gifts
+2019-08-08,expense,91.31,Transportation
+2019-08-10,income,370.98,Investments
+2019-08-10,expense,104.97,Groceries
+2019-08-10,expense,71.41,Transportation
+2019-08-10,expense,66.36,Transportation
+2019-08-11,expense,4.89,Gifts
+2019-08-12,expense,86.68,Entertainment
+2019-08-13,income,820.09,Freelance
+2019-08-13,income,382.28,Side Business
+2019-08-14,expense,82.12,Dining Out
+2019-08-15,income,2250.0,Salary
+2019-08-15,expense,98.55,Shopping
+2019-08-16,expense,61.16,Gifts
+2019-08-17,expense,105.09,Groceries
+2019-08-17,expense,203.51,Shopping
+2019-08-23,income,775.72,Freelance
+2019-08-24,expense,33.54,Entertainment
+2019-08-24,expense,79.33,Shopping
+2019-08-24,expense,121.0,Groceries
+2019-08-26,income,675.07,Side Business
+2019-08-26,expense,87.95,Entertainment
+2019-08-27,expense,90.38,Transportation
+2019-08-28,expense,53.5,Transportation
+2019-08-29,expense,46.96,Transportation
+2019-08-30,income,2250.0,Salary
+2019-08-30,expense,157.82,Shopping
+2019-08-31,expense,103.92,Groceries
+2019-08-31,expense,46.08,Education
+2019-09-01,expense,64.88,Subscriptions
+2019-09-01,expense,190.38,Insurance
+2019-09-01,expense,1508.83,Housing
+2019-09-01,expense,224.99,Utilities
+2019-09-02,expense,34.01,Transportation
+2019-09-02,expense,102.39,Gifts
+2019-09-03,expense,80.49,Transportation
+2019-09-04,income,609.92,Side Business
+2019-09-05,expense,35.27,Transportation
+2019-09-05,income,1227.05,Rental Income
+2019-09-07,expense,70.62,Dining Out
+2019-09-07,expense,107.69,Groceries
+2019-09-10,income,317.25,Investments
+2019-09-10,expense,27.17,Entertainment
+2019-09-11,income,938.07,Freelance
+2019-09-12,expense,76.05,Entertainment
+2019-09-13,expense,222.86,Shopping
+2019-09-14,expense,106.03,Groceries
+2019-09-15,income,2250.0,Salary
+2019-09-15,income,802.24,Side Business
+2019-09-15,expense,43.5,Personal Care
+2019-09-18,expense,19.7,Personal Care
+2019-09-19,expense,61.82,Entertainment
+2019-09-20,income,760.53,Freelance
+2019-09-20,expense,63.13,Dining Out
+2019-09-21,expense,132.06,Groceries
+2019-09-21,expense,94.59,Dining Out
+2019-09-23,expense,93.87,Shopping
+2019-09-23,expense,87.31,Dining Out
+2019-09-24,expense,115.55,Shopping
+2019-09-25,expense,171.43,Healthcare
+2019-09-25,expense,141.98,Education
+2019-09-27,expense,208.09,Shopping
+2019-09-28,expense,141.35,Groceries
+2019-09-30,income,2250.0,Salary
+2019-09-30,expense,78.92,Shopping
+2019-10-01,expense,1580.32,Housing
+2019-10-01,expense,217.58,Utilities
+2019-10-01,expense,197.51,Insurance
+2019-10-01,expense,65.01,Subscriptions
+2019-10-02,expense,93.31,Education
+2019-10-02,expense,237.05,Shopping
+2019-10-03,expense,72.06,Transportation
+2019-10-04,expense,124.62,Dining Out
+2019-10-05,income,1187.66,Rental Income
+2019-10-05,expense,132.47,Groceries
+2019-10-05,expense,144.39,Healthcare
+2019-10-05,expense,95.72,Entertainment
+2019-10-06,expense,60.48,Transportation
+2019-10-07,income,814.82,Side Business
+2019-10-09,expense,92.75,Entertainment
+2019-10-09,expense,82.44,Dining Out
+2019-10-10,expense,66.87,Transportation
+2019-10-10,expense,127.41,Dining Out
+2019-10-10,income,379.76,Investments
+2019-10-11,income,873.7,Freelance
+2019-10-12,expense,120.21,Groceries
+2019-10-13,expense,85.57,Dining Out
+2019-10-14,income,485.08,Side Business
+2019-10-14,expense,64.02,Entertainment
+2019-10-15,income,2250.0,Salary
+2019-10-16,expense,101.83,Healthcare
+2019-10-17,expense,89.72,Entertainment
+2019-10-17,income,691.79,Freelance
+2019-10-18,expense,60.61,Dining Out
+2019-10-18,income,687.19,Freelance
+2019-10-18,income,618.3,Side Business
+2019-10-19,expense,115.58,Groceries
+2019-10-20,income,474.37,Side Business
+2019-10-20,expense,72.62,Transportation
+2019-10-21,expense,88.96,Transportation
+2019-10-22,expense,98.48,Dining Out
+2019-10-22,expense,42.91,Personal Care
+2019-10-23,income,781.77,Side Business
+2019-10-24,expense,192.84,Healthcare
+2019-10-25,expense,49.19,Education
+2019-10-25,income,735.12,Freelance
+2019-10-26,expense,135.91,Groceries
+2019-10-26,expense,92.78,Healthcare
+2019-10-28,income,790.09,Side Business
+2019-10-29,income,557.62,Side Business
+2019-10-29,expense,176.09,Healthcare
+2019-10-29,expense,46.96,Transportation
+2019-10-30,income,2250.0,Salary
+2019-10-31,expense,23.97,Personal Care
+2019-11-01,expense,65.05,Dining Out
+2019-11-01,expense,47.92,Shopping
+2019-11-01,expense,62.28,Subscriptions
+2019-11-01,expense,197.75,Insurance
+2019-11-01,expense,215.58,Utilities
+2019-11-01,expense,1622.26,Housing
+2019-11-02,income,660.35,Side Business
+2019-11-02,expense,122.53,Groceries
+2019-11-02,expense,98.84,Transportation
+2019-11-03,income,719.27,Freelance
+2019-11-03,expense,92.93,Gifts
+2019-11-04,expense,151.66,Shopping
+2019-11-05,expense,55.73,Gifts
+2019-11-05,expense,105.38,Education
+2019-11-05,income,762.23,Freelance
+2019-11-05,income,1151.95,Rental Income
+2019-11-06,expense,74.01,Transportation
+2019-11-06,expense,116.97,Shopping
+2019-11-06,expense,56.87,Healthcare
+2019-11-07,expense,141.22,Dining Out
+2019-11-07,expense,50.22,Transportation
+2019-11-08,expense,47.34,Transportation
+2019-11-08,income,599.12,Freelance
+2019-11-08,expense,62.03,Entertainment
+2019-11-09,income,776.27,Freelance
+2019-11-09,expense,140.45,Groceries
+2019-11-09,expense,24.87,Gifts
+2019-11-09,expense,139.32,Healthcare
+2019-11-09,expense,79.56,Shopping
+2019-11-10,income,337.9,Investments
+2019-11-11,expense,73.98,Transportation
+2019-11-11,expense,89.34,Transportation
+2019-11-11,expense,87.52,Entertainment
+2019-11-12,expense,133.36,Dining Out
+2019-11-13,expense,182.88,Shopping
+2019-11-14,income,786.96,Side Business
+2019-11-14,expense,135.85,Dining Out
+2019-11-14,expense,122.2,Gifts
+2019-11-15,income,2250.0,Salary
+2019-11-15,expense,84.36,Entertainment
+2019-11-15,expense,121.05,Dining Out
+2019-11-16,income,1001.48,Freelance
+2019-11-16,expense,160.46,Groceries
+2019-11-17,expense,46.83,Gifts
+2019-11-18,expense,92.2,Transportation
+2019-11-19,income,579.53,Freelance
+2019-11-19,expense,66.33,Transportation
+2019-11-19,expense,100.44,Healthcare
+2019-11-20,expense,114.43,Dining Out
+2019-11-21,expense,93.1,Shopping
+2019-11-21,expense,75.83,Shopping
+2019-11-22,expense,29.42,Gifts
+2019-11-23,expense,148.85,Groceries
+2019-11-23,expense,123.44,Dining Out
+2019-11-25,income,794.3,Side Business
+2019-11-26,expense,62.82,Transportation
+2019-11-27,expense,53.81,Healthcare
+2019-11-28,expense,61.32,Dining Out
+2019-11-29,income,629.29,Freelance
+2019-11-30,income,2250.0,Salary
+2019-11-30,expense,167.38,Groceries
+2019-11-30,expense,227.08,Shopping
+2019-12-01,expense,11.23,Personal Care
+2019-12-01,expense,65.74,Subscriptions
+2019-12-01,expense,196.3,Insurance
+2019-12-01,expense,205.7,Utilities
+2019-12-01,expense,1580.5,Housing
+2019-12-02,expense,59.53,Entertainment
+2019-12-03,income,444.35,Side Business
+2019-12-05,income,753.08,Freelance
+2019-12-05,income,1242.49,Rental Income
+2019-12-05,expense,41.4,Entertainment
+2019-12-06,expense,49.31,Education
+2019-12-07,expense,142.12,Groceries
+2019-12-08,expense,19.28,Gifts
+2019-12-09,expense,61.5,Transportation
+2019-12-09,expense,94.44,Transportation
+2019-12-10,income,359.28,Investments
+2019-12-12,expense,40.93,Entertainment
+2019-12-13,expense,104.92,Shopping
+2019-12-14,expense,135.7,Groceries
+2019-12-14,expense,43.0,Personal Care
+2019-12-14,expense,37.7,Shopping
+2019-12-15,income,2250.0,Salary
+2019-12-15,expense,75.57,Transportation
+2019-12-16,expense,31.37,Entertainment
+2019-12-17,expense,90.82,Shopping
+2019-12-18,expense,89.76,Dining Out
+2019-12-19,expense,177.28,Shopping
+2019-12-21,expense,172.54,Groceries
+2019-12-22,expense,32.25,Transportation
+2019-12-22,expense,53.82,Dining Out
+2019-12-23,expense,15.7,Gifts
+2019-12-23,expense,74.58,Transportation
+2019-12-24,income,371.63,Side Business
+2019-12-24,expense,79.7,Healthcare
+2019-12-25,expense,93.81,Transportation
+2019-12-26,expense,50.69,Transportation
+2019-12-26,expense,47.71,Shopping
+2019-12-27,expense,217.65,Shopping
+2019-12-27,expense,140.0,Shopping
+2019-12-27,expense,119.19,Dining Out
+2019-12-28,expense,136.52,Groceries
+2019-12-28,expense,9.71,Gifts
+2019-12-29,income,1016.35,Freelance
+2019-12-29,expense,50.78,Shopping
+2019-12-29,expense,172.82,Shopping
+2019-12-30,income,2250.0,Salary
+2019-12-31,expense,97.59,Entertainment
+2020-01-01,expense,220.3,Utilities
+2020-01-01,expense,64.95,Subscriptions
+2020-01-01,expense,1626.05,Housing
+2020-01-01,expense,196.32,Insurance
+2020-01-02,expense,63.32,Dining Out
+2020-01-03,expense,74.55,Dining Out
+2020-01-04,expense,135.94,Groceries
+2020-01-04,expense,49.24,Entertainment
+2020-01-05,income,1257.94,Rental Income
+2020-01-08,expense,45.47,Transportation
+2020-01-09,expense,126.87,Healthcare
+2020-01-10,income,351.18,Investments
+2020-01-10,income,690.38,Freelance
+2020-01-11,expense,103.77,Groceries
+2020-01-12,expense,56.03,Transportation
+2020-01-12,expense,177.13,Shopping
+2020-01-13,expense,99.82,Entertainment
+2020-01-14,expense,27.0,Entertainment
+2020-01-15,income,2250.0,Salary
+2020-01-15,income,630.73,Side Business
+2020-01-15,expense,139.14,Dining Out
+2020-01-16,expense,62.6,Shopping
+2020-01-17,expense,42.13,Transportation
+2020-01-17,income,546.29,Side Business
+2020-01-18,income,1001.29,Freelance
+2020-01-18,expense,113.47,Groceries
+2020-01-18,expense,165.23,Shopping
+2020-01-19,expense,108.91,Dining Out
+2020-01-19,expense,122.49,Gifts
+2020-01-19,expense,39.27,Transportation
+2020-01-20,expense,130.98,Shopping
+2020-01-21,expense,98.43,Healthcare
+2020-01-21,expense,147.18,Dining Out
+2020-01-22,expense,10.87,Personal Care
+2020-01-25,expense,136.33,Groceries
+2020-01-26,income,819.21,Freelance
+2020-01-28,income,1041.38,Freelance
+2020-01-28,expense,152.63,Shopping
+2020-01-29,expense,89.55,Dining Out
+2020-01-30,income,2250.0,Salary
+2020-01-30,expense,139.63,Dining Out
+2020-01-31,income,718.01,Freelance
+2020-01-31,expense,132.59,Dining Out
+2020-02-01,expense,46.31,Personal Care
+2020-02-01,expense,117.82,Groceries
+2020-02-01,expense,65.86,Subscriptions
+2020-02-01,expense,1661.52,Housing
+2020-02-01,expense,227.78,Utilities
+2020-02-01,expense,195.35,Insurance
+2020-02-04,expense,64.08,Education
+2020-02-05,expense,87.29,Entertainment
+2020-02-05,income,1291.31,Rental Income
+2020-02-05,income,476.66,Side Business
+2020-02-06,expense,44.64,Personal Care
+2020-02-06,expense,115.63,Gifts
+2020-02-08,expense,106.67,Groceries
+2020-02-08,expense,48.95,Healthcare
+2020-02-08,expense,239.01,Shopping
+2020-02-08,expense,34.99,Personal Care
+2020-02-10,income,369.49,Investments
+2020-02-12,expense,153.41,Shopping
+2020-02-13,income,1016.64,Freelance
+2020-02-15,expense,138.33,Groceries
+2020-02-15,expense,149.7,Dining Out
+2020-02-15,income,2250.0,Salary
+2020-02-17,income,488.9,Side Business
+2020-02-17,expense,83.67,Entertainment
+2020-02-17,expense,915.57,Home Improvement
+2020-02-18,expense,38.86,Transportation
+2020-02-18,expense,20.72,Entertainment
+2020-02-19,expense,113.54,Dining Out
+2020-02-20,expense,92.32,Dining Out
+2020-02-22,expense,138.92,Groceries
+2020-02-25,expense,232.89,Shopping
+2020-02-25,expense,33.19,Entertainment
+2020-02-25,income,963.2,Freelance
+2020-02-26,income,1082.86,Freelance
+2020-02-27,expense,16.18,Personal Care
+2020-02-27,expense,22.16,Entertainment
+2020-02-28,expense,38.69,Entertainment
+2020-02-29,expense,113.32,Groceries
+2020-02-29,expense,96.48,Dining Out
+2020-03-01,expense,202.55,Insurance
+2020-03-01,expense,40.42,Transportation
+2020-03-01,expense,58.99,Dining Out
+2020-03-01,expense,62.88,Subscriptions
+2020-03-01,expense,231.31,Utilities
+2020-03-01,expense,1610.46,Housing
+2020-03-01,income,767.33,Side Business
+2020-03-02,income,993.66,Freelance
+2020-03-03,income,1059.92,Freelance
+2020-03-05,income,1276.72,Rental Income
+2020-03-05,expense,98.84,Transportation
+2020-03-06,expense,41.25,Transportation
+2020-03-07,expense,67.35,Transportation
+2020-03-07,expense,130.79,Groceries
+2020-03-08,expense,123.85,Dining Out
+2020-03-08,expense,53.7,Dining Out
+2020-03-09,expense,89.57,Entertainment
+2020-03-09,expense,61.55,Dining Out
+2020-03-10,income,403.37,Investments
+2020-03-10,expense,24.51,Personal Care
+2020-03-13,income,944.01,Freelance
+2020-03-14,expense,116.22,Groceries
+2020-03-14,expense,56.24,Transportation
+2020-03-14,expense,29.83,Entertainment
+2020-03-15,income,2403.96,Salary
+2020-03-15,income,740.55,Bonus
+2020-03-16,income,1047.97,Freelance
+2020-03-16,expense,51.5,Personal Care
+2020-03-17,income,438.27,Side Business
+2020-03-20,income,435.0,Side Business
+2020-03-20,expense,49.48,Shopping
+2020-03-21,expense,59.18,Transportation
+2020-03-21,income,970.85,Freelance
+2020-03-21,expense,117.09,Groceries
+2020-03-22,expense,30.1,Personal Care
+2020-03-23,expense,94.03,Dining Out
+2020-03-23,expense,91.75,Transportation
+2020-03-26,expense,23.2,Personal Care
+2020-03-28,expense,132.16,Groceries
+2020-03-28,expense,39.86,Shopping
+2020-03-29,expense,23.17,Personal Care
+2020-03-29,expense,167.63,Healthcare
+2020-03-30,income,2403.96,Salary
+2020-03-30,expense,26.54,Entertainment
+2020-03-31,expense,61.79,Transportation
+2020-03-31,expense,65.86,Transportation
+2020-04-01,expense,76.8,Dining Out
+2020-04-01,expense,67.63,Subscriptions
+2020-04-01,expense,1596.4,Housing
+2020-04-01,expense,216.79,Utilities
+2020-04-01,expense,196.68,Insurance
+2020-04-02,expense,48.59,Personal Care
+2020-04-03,expense,31.31,Transportation
+2020-04-03,expense,90.14,Transportation
+2020-04-04,expense,53.08,Education
+2020-04-04,expense,118.67,Groceries
+2020-04-05,expense,254.6,Shopping
+2020-04-05,expense,77.34,Healthcare
+2020-04-05,income,1237.51,Rental Income
+2020-04-06,expense,40.18,Entertainment
+2020-04-07,expense,90.96,Entertainment
+2020-04-07,expense,65.4,Transportation
+2020-04-08,income,619.72,Side Business
+2020-04-08,expense,92.67,Transportation
+2020-04-09,income,667.93,Freelance
+2020-04-09,expense,85.75,Dining Out
+2020-04-10,income,1060.72,Freelance
+2020-04-10,income,363.43,Investments
+2020-04-10,expense,95.87,Entertainment
+2020-04-11,expense,93.33,Transportation
+2020-04-11,expense,131.62,Groceries
+2020-04-14,expense,113.96,Shopping
+2020-04-15,income,2403.96,Salary
+2020-04-16,expense,75.53,Transportation
+2020-04-16,expense,44.68,Healthcare
+2020-04-17,expense,55.73,Transportation
+2020-04-18,income,914.44,Freelance
+2020-04-18,expense,137.42,Groceries
+2020-04-18,expense,140.37,Dining Out
+2020-04-20,expense,38.26,Personal Care
+2020-04-20,expense,173.25,Shopping
+2020-04-20,income,902.38,Freelance
+2020-04-20,expense,47.5,Transportation
+2020-04-21,expense,200.55,Shopping
+2020-04-22,expense,42.07,Transportation
+2020-04-23,expense,154.45,Dining Out
+2020-04-24,expense,185.11,Shopping
+2020-04-25,income,628.68,Freelance
+2020-04-25,expense,112.15,Groceries
+2020-04-25,expense,54.02,Education
+2020-04-25,expense,49.67,Entertainment
+2020-04-26,expense,24.86,Personal Care
+2020-04-28,income,757.74,Freelance
+2020-04-28,expense,91.18,Dining Out
+2020-04-29,income,879.19,Side Business
+2020-04-29,expense,85.27,Entertainment
+2020-04-30,income,2403.96,Salary
+2020-04-30,income,760.05,Side Business
+2020-05-01,expense,102.06,Transportation
+2020-05-01,expense,195.39,Shopping
+2020-05-01,expense,65.54,Subscriptions
+2020-05-01,expense,209.49,Insurance
+2020-05-01,expense,212.61,Utilities
+2020-05-01,expense,1601.19,Housing
+2020-05-02,expense,108.46,Groceries
+2020-05-03,income,957.33,Freelance
+2020-05-03,expense,31.62,Personal Care
+2020-05-05,income,1290.49,Rental Income
+2020-05-05,expense,165.74,Shopping
+2020-05-05,expense,70.61,Shopping
+2020-05-06,expense,4.29,Gifts
+2020-05-07,expense,95.56,Healthcare
+2020-05-08,expense,23.08,Entertainment
+2020-05-09,expense,130.08,Groceries
+2020-05-10,income,398.1,Investments
+2020-05-10,income,636.22,Side Business
+2020-05-11,expense,10.93,Education
+2020-05-11,expense,197.06,Healthcare
+2020-05-12,expense,46.17,Personal Care
+2020-05-13,expense,58.1,Healthcare
+2020-05-14,income,854.97,Freelance
+2020-05-14,expense,104.0,Healthcare
+2020-05-15,expense,18.25,Gifts
+2020-05-15,expense,182.15,Shopping
+2020-05-15,income,2403.96,Salary
+2020-05-15,expense,64.91,Transportation
+2020-05-16,expense,112.79,Groceries
+2020-05-16,expense,65.32,Gifts
+2020-05-17,expense,101.05,Entertainment
+2020-05-18,expense,195.02,Healthcare
+2020-05-18,expense,37.92,Transportation
+2020-05-19,expense,35.3,Entertainment
+2020-05-20,expense,35.02,Transportation
+2020-05-20,income,887.28,Freelance
+2020-05-21,expense,27.31,Personal Care
+2020-05-22,expense,38.81,Healthcare
+2020-05-23,income,667.71,Side Business
+2020-05-23,expense,127.25,Groceries
+2020-05-23,expense,44.62,Entertainment
+2020-05-23,expense,121.41,Dining Out
+2020-05-24,expense,121.17,Healthcare
+2020-05-24,expense,52.38,Transportation
+2020-05-26,expense,82.33,Dining Out
+2020-05-27,expense,69.07,Dining Out
+2020-05-27,expense,102.45,Dining Out
+2020-05-29,expense,40.83,Personal Care
+2020-05-29,expense,59.45,Transportation
+2020-05-29,expense,78.87,Transportation
+2020-05-30,income,2403.96,Salary
+2020-05-30,expense,128.35,Groceries
+2020-05-30,expense,80.63,Gifts
+2020-05-31,income,763.15,Side Business
+2020-05-31,expense,121.58,Dining Out
+2020-06-01,expense,23.44,Entertainment
+2020-06-01,expense,63.84,Subscriptions
+2020-06-01,expense,191.72,Insurance
+2020-06-01,expense,220.69,Utilities
+2020-06-01,expense,1523.85,Housing
+2020-06-02,income,931.82,Freelance
+2020-06-03,income,825.45,Freelance
+2020-06-03,expense,53.41,Dining Out
+2020-06-03,expense,43.99,Personal Care
+2020-06-04,expense,74.88,Transportation
+2020-06-04,expense,37.03,Entertainment
+2020-06-04,expense,100.75,Entertainment
+2020-06-05,expense,330.92,Education
+2020-06-05,income,1201.65,Rental Income
+2020-06-05,expense,92.07,Dining Out
+2020-06-06,expense,150.19,Groceries
+2020-06-07,expense,23.74,Personal Care
+2020-06-08,expense,130.34,Dining Out
+2020-06-08,expense,28.46,Personal Care
+2020-06-09,income,880.64,Side Business
+2020-06-09,expense,70.64,Transportation
+2020-06-10,income,459.01,Side Business
+2020-06-10,income,345.85,Investments
+2020-06-11,expense,133.74,Healthcare
+2020-06-12,expense,193.55,Shopping
+2020-06-12,expense,75.48,Entertainment
+2020-06-13,expense,109.68,Groceries
+2020-06-14,income,654.36,Side Business
+2020-06-15,income,2403.96,Salary
+2020-06-16,expense,58.45,Education
+2020-06-16,expense,108.66,Dining Out
+2020-06-18,expense,85.65,Entertainment
+2020-06-20,expense,63.99,Dining Out
+2020-06-20,expense,134.04,Groceries
+2020-06-21,expense,130.35,Dining Out
+2020-06-21,expense,134.61,Dining Out
+2020-06-22,expense,98.04,Entertainment
+2020-06-23,income,933.21,Freelance
+2020-06-23,expense,95.81,Dining Out
+2020-06-24,income,956.61,Freelance
+2020-06-24,expense,35.45,Transportation
+2020-06-25,income,841.88,Side Business
+2020-06-26,expense,69.88,Dining Out
+2020-06-26,expense,43.69,Transportation
+2020-06-27,expense,135.48,Groceries
+2020-06-27,expense,85.97,Dining Out
+2020-06-28,expense,41.53,Entertainment
+2020-06-30,income,2403.96,Salary
+2020-06-30,expense,61.3,Entertainment
+2020-06-30,expense,62.75,Dining Out
+2020-07-01,expense,63.42,Subscriptions
+2020-07-01,expense,215.58,Utilities
+2020-07-01,expense,205.88,Insurance
+2020-07-01,income,979.16,Freelance
+2020-07-01,expense,1535.26,Housing
+2020-07-02,expense,138.85,Education
+2020-07-03,expense,237.51,Shopping
+2020-07-03,expense,14.63,Education
+2020-07-03,expense,264.9,Education
+2020-07-04,expense,148.96,Groceries
+2020-07-05,expense,118.45,Dining Out
+2020-07-05,income,1186.47,Rental Income
+2020-07-06,expense,39.4,Shopping
+2020-07-07,expense,56.34,Dining Out
+2020-07-08,expense,101.67,Dining Out
+2020-07-10,income,412.52,Investments
+2020-07-11,income,918.41,Freelance
+2020-07-11,expense,108.88,Groceries
+2020-07-11,expense,99.38,Transportation
+2020-07-12,expense,102.22,Shopping
+2020-07-12,expense,89.9,Entertainment
+2020-07-14,expense,91.34,Entertainment
+2020-07-14,income,892.93,Freelance
+2020-07-15,income,2403.96,Salary
+2020-07-17,expense,81.96,Healthcare
+2020-07-17,income,628.53,Side Business
+2020-07-18,expense,95.58,Entertainment
+2020-07-18,expense,33.71,Personal Care
+2020-07-18,expense,108.77,Groceries
+2020-07-19,income,867.13,Side Business
+2020-07-19,expense,55.3,Dining Out
+2020-07-23,income,720.29,Freelance
+2020-07-23,income,502.11,Side Business
+2020-07-24,income,784.31,Freelance
+2020-07-25,expense,106.94,Groceries
+2020-07-25,expense,41.0,Transportation
+2020-07-25,income,806.69,Freelance
+2020-07-26,income,551.86,Side Business
+2020-07-26,expense,35.62,Entertainment
+2020-07-27,income,912.27,Freelance
+2020-07-29,income,602.02,Freelance
+2020-07-29,expense,72.1,Entertainment
+2020-07-30,income,2403.96,Salary
+2020-08-01,expense,123.34,Groceries
+2020-08-01,expense,63.96,Subscriptions
+2020-08-01,expense,72.0,Entertainment
+2020-08-01,expense,230.91,Utilities
+2020-08-01,expense,1632.81,Housing
+2020-08-01,expense,195.66,Insurance
+2020-08-03,expense,54.53,Dining Out
+2020-08-05,income,1246.33,Rental Income
+2020-08-05,expense,62.62,Transportation
+2020-08-08,expense,117.67,Groceries
+2020-08-08,expense,75.63,Entertainment
+2020-08-09,income,424.66,Side Business
+2020-08-10,income,395.4,Investments
+2020-08-10,expense,33.79,Personal Care
+2020-08-11,expense,83.82,Entertainment
+2020-08-11,income,804.58,Side Business
+2020-08-12,expense,84.49,Transportation
+2020-08-12,expense,59.72,Transportation
+2020-08-13,income,1089.4,Freelance
+2020-08-15,income,2403.96,Salary
+2020-08-15,expense,146.27,Groceries
+2020-08-15,expense,52.14,Transportation
+2020-08-15,expense,91.35,Entertainment
+2020-08-17,expense,23.21,Entertainment
+2020-08-18,income,660.17,Side Business
+2020-08-18,expense,97.55,Dining Out
+2020-08-18,expense,88.39,Entertainment
+2020-08-19,expense,67.31,Transportation
+2020-08-22,expense,143.97,Groceries
+2020-08-22,expense,48.06,Personal Care
+2020-08-23,expense,38.77,Personal Care
+2020-08-24,expense,31.92,Transportation
+2020-08-25,expense,95.43,Transportation
+2020-08-26,expense,22.39,Entertainment
+2020-08-28,expense,90.1,Entertainment
+2020-08-29,income,684.18,Freelance
+2020-08-29,income,602.94,Side Business
+2020-08-29,expense,115.65,Groceries
+2020-08-30,income,849.49,Side Business
+2020-08-30,income,2403.96,Salary
+2020-09-01,expense,1671.62,Housing
+2020-09-01,expense,226.8,Utilities
+2020-09-01,expense,191.05,Insurance
+2020-09-01,expense,64.27,Subscriptions
+2020-09-01,expense,24.48,Personal Care
+2020-09-02,expense,124.59,Dining Out
+2020-09-03,income,560.93,Side Business
+2020-09-04,expense,20.93,Personal Care
+2020-09-05,expense,105.01,Groceries
+2020-09-05,income,1245.59,Rental Income
+2020-09-06,expense,47.21,Entertainment
+2020-09-07,income,687.57,Side Business
+2020-09-08,expense,44.72,Personal Care
+2020-09-09,expense,89.8,Entertainment
+2020-09-10,income,352.71,Investments
+2020-09-10,expense,37.63,Transportation
+2020-09-10,expense,119.26,Healthcare
+2020-09-10,expense,134.63,Dining Out
+2020-09-11,expense,79.85,Transportation
+2020-09-12,expense,150.29,Dining Out
+2020-09-12,expense,105.86,Groceries
+2020-09-13,income,981.45,Freelance
+2020-09-14,expense,64.07,Transportation
+2020-09-15,income,2403.96,Salary
+2020-09-15,expense,131.54,Dining Out
+2020-09-16,income,683.77,Side Business
+2020-09-17,income,1015.98,Freelance
+2020-09-17,expense,33.5,Transportation
+2020-09-17,expense,69.15,Transportation
+2020-09-18,expense,133.0,Dining Out
+2020-09-18,expense,46.73,Transportation
+2020-09-18,expense,46.38,Transportation
+2020-09-19,expense,137.76,Groceries
+2020-09-20,expense,118.09,Dining Out
+2020-09-21,income,761.82,Freelance
+2020-09-21,expense,231.08,Shopping
+2020-09-21,expense,252.53,Shopping
+2020-09-24,expense,23.77,Entertainment
+2020-09-24,expense,69.31,Transportation
+2020-09-25,expense,45.27,Entertainment
+2020-09-25,expense,50.35,Entertainment
+2020-09-26,expense,107.73,Groceries
+2020-09-26,expense,74.67,Transportation
+2020-09-28,expense,109.2,Healthcare
+2020-09-28,expense,106.64,Shopping
+2020-09-29,income,707.27,Freelance
+2020-09-30,income,2403.96,Salary
+2020-10-01,expense,66.47,Subscriptions
+2020-10-01,expense,197.61,Insurance
+2020-10-01,expense,71.08,Transportation
+2020-10-01,expense,1627.24,Housing
+2020-10-01,expense,224.69,Utilities
+2020-10-02,expense,73.23,Transportation
+2020-10-03,expense,103.2,Groceries
+2020-10-03,expense,35.41,Education
+2020-10-03,expense,24.71,Personal Care
+2020-10-04,income,870.49,Freelance
+2020-10-04,expense,149.69,Dining Out
+2020-10-05,income,1293.58,Rental Income
+2020-10-09,expense,83.87,Shopping
+2020-10-09,expense,74.06,Gifts
+2020-10-10,income,403.85,Investments
+2020-10-10,expense,112.5,Groceries
+2020-10-10,expense,78.03,Dining Out
+2020-10-11,expense,1108.85,Home Improvement
+2020-10-13,expense,71.88,Entertainment
+2020-10-14,expense,85.47,Entertainment
+2020-10-15,income,2403.96,Salary
+2020-10-15,expense,113.17,Dining Out
+2020-10-16,expense,90.51,Dining Out
+2020-10-17,expense,148.9,Groceries
+2020-10-17,expense,44.96,Personal Care
+2020-10-18,expense,236.09,Shopping
+2020-10-18,expense,64.39,Dining Out
+2020-10-21,expense,58.02,Entertainment
+2020-10-22,income,1067.84,Freelance
+2020-10-22,expense,14.57,Personal Care
+2020-10-23,expense,29.07,Entertainment
+2020-10-24,expense,111.74,Groceries
+2020-10-24,expense,26.63,Entertainment
+2020-10-24,expense,80.83,Entertainment
+2020-10-25,expense,61.09,Healthcare
+2020-10-25,expense,83.9,Transportation
+2020-10-25,income,718.63,Freelance
+2020-10-25,income,849.53,Side Business
+2020-10-27,income,934.03,Freelance
+2020-10-27,expense,80.84,Entertainment
+2020-10-27,expense,99.76,Transportation
+2020-10-28,expense,80.66,Shopping
+2020-10-29,income,829.97,Freelance
+2020-10-29,expense,31.91,Education
+2020-10-30,income,658.68,Freelance
+2020-10-30,income,2403.96,Salary
+2020-10-30,expense,97.77,Transportation
+2020-10-31,expense,108.09,Groceries
+2020-11-01,income,624.56,Freelance
+2020-11-01,expense,1625.9,Housing
+2020-11-01,expense,230.06,Utilities
+2020-11-01,expense,193.18,Insurance
+2020-11-01,expense,64.91,Subscriptions
+2020-11-03,expense,34.8,Education
+2020-11-03,expense,183.98,Shopping
+2020-11-04,expense,152.21,Healthcare
+2020-11-05,income,1202.05,Rental Income
+2020-11-07,expense,169.77,Groceries
+2020-11-09,expense,54.94,Entertainment
+2020-11-09,expense,114.9,Shopping
+2020-11-10,income,348.12,Investments
+2020-11-11,expense,39.16,Shopping
+2020-11-12,income,731.45,Freelance
+2020-11-14,expense,161.12,Groceries
+2020-11-15,income,2403.96,Salary
+2020-11-17,expense,48.62,Entertainment
+2020-11-17,expense,18.91,Education
+2020-11-18,expense,31.44,Transportation
+2020-11-19,expense,74.31,Dining Out
+2020-11-21,expense,116.74,Dining Out
+2020-11-21,expense,136.02,Groceries
+2020-11-22,expense,97.45,Gifts
+2020-11-23,expense,110.39,Gifts
+2020-11-23,expense,75.37,Dining Out
+2020-11-24,income,793.82,Freelance
+2020-11-24,expense,77.14,Shopping
+2020-11-25,income,840.04,Side Business
+2020-11-26,expense,95.05,Dining Out
+2020-11-26,expense,57.84,Gifts
+2020-11-26,expense,73.38,Entertainment
+2020-11-28,expense,92.82,Entertainment
+2020-11-28,expense,160.94,Groceries
+2020-11-30,income,2403.96,Salary
+2020-11-30,expense,109.06,Education
+2020-12-01,expense,1525.6,Housing
+2020-12-01,expense,221.18,Utilities
+2020-12-01,expense,201.0,Insurance
+2020-12-01,expense,65.96,Subscriptions
+2020-12-02,income,865.09,Freelance
+2020-12-02,income,787.73,Side Business
+2020-12-02,expense,137.0,Shopping
+2020-12-03,expense,178.85,Shopping
+2020-12-04,expense,45.63,Transportation
+2020-12-05,income,977.85,Freelance
+2020-12-05,income,1192.94,Rental Income
+2020-12-05,expense,171.12,Groceries
+2020-12-05,expense,71.23,Transportation
+2020-12-06,expense,116.44,Healthcare
+2020-12-06,expense,72.75,Dining Out
+2020-12-08,expense,213.51,Shopping
+2020-12-09,income,463.37,Side Business
+2020-12-09,expense,115.11,Gifts
+2020-12-10,income,399.96,Investments
+2020-12-11,expense,61.95,Shopping
+2020-12-12,expense,150.91,Groceries
+2020-12-13,expense,38.84,Shopping
+2020-12-13,expense,40.41,Personal Care
+2020-12-15,income,2403.96,Salary
+2020-12-15,expense,205.42,Shopping
+2020-12-15,expense,77.2,Entertainment
+2020-12-17,expense,199.36,Shopping
+2020-12-18,expense,248.49,Shopping
+2020-12-19,expense,164.11,Shopping
+2020-12-19,expense,87.68,Gifts
+2020-12-19,expense,161.78,Groceries
+2020-12-20,expense,108.31,Dining Out
+2020-12-23,expense,84.27,Shopping
+2020-12-23,expense,233.13,Shopping
+2020-12-23,expense,80.65,Transportation
+2020-12-24,expense,74.03,Healthcare
+2020-12-25,expense,14.92,Gifts
+2020-12-25,expense,46.67,Healthcare
+2020-12-26,expense,111.91,Dining Out
+2020-12-26,expense,171.42,Groceries
+2020-12-26,income,740.59,Freelance
+2020-12-29,expense,127.2,Shopping
+2020-12-30,income,2403.96,Salary
+2020-12-31,expense,30.82,Education
+2021-01-01,expense,1653.91,Housing
+2021-01-01,expense,218.59,Utilities
+2021-01-01,expense,207.03,Insurance
+2021-01-01,expense,63.64,Subscriptions
+2021-01-01,expense,248.46,Shopping
+2021-01-02,expense,96.98,Transportation
+2021-01-02,expense,137.6,Groceries
+2021-01-02,income,713.49,Side Business
+2021-01-03,income,784.89,Freelance
+2021-01-03,expense,61.65,Entertainment
+2021-01-04,expense,182.9,Healthcare
+2021-01-04,expense,11.6,Education
+2021-01-05,income,1328.98,Rental Income
+2021-01-05,expense,57.78,Transportation
+2021-01-05,expense,101.64,Dining Out
+2021-01-07,expense,78.13,Entertainment
+2021-01-08,expense,74.62,Healthcare
+2021-01-09,expense,111.53,Groceries
+2021-01-09,income,925.16,Side Business
+2021-01-10,income,430.8,Investments
+2021-01-10,expense,84.57,Transportation
+2021-01-11,expense,39.75,Gifts
+2021-01-12,expense,105.04,Entertainment
+2021-01-13,expense,72.29,Entertainment
+2021-01-14,expense,210.49,Shopping
+2021-01-15,income,2403.96,Salary
+2021-01-16,expense,123.28,Groceries
+2021-01-17,expense,501.08,Healthcare
+2021-01-17,expense,113.13,Dining Out
+2021-01-17,expense,222.6,Shopping
+2021-01-18,income,636.49,Side Business
+2021-01-19,expense,82.08,Transportation
+2021-01-19,expense,119.05,Dining Out
+2021-01-19,expense,89.95,Transportation
+2021-01-20,expense,25.04,Gifts
+2021-01-21,expense,90.74,Shopping
+2021-01-22,expense,60.97,Shopping
+2021-01-23,expense,173.12,Healthcare
+2021-01-23,expense,89.52,Dining Out
+2021-01-23,expense,97.78,Groceries
+2021-01-24,expense,75.58,Dining Out
+2021-01-24,expense,137.66,Dining Out
+2021-01-24,expense,95.55,Dining Out
+2021-01-25,expense,115.22,Dining Out
+2021-01-26,expense,177.07,Shopping
+2021-01-29,income,854.54,Freelance
+2021-01-29,expense,131.69,Dining Out
+2021-01-30,expense,130.28,Groceries
+2021-01-30,income,2403.96,Salary
+2021-01-30,income,1067.49,Freelance
+2021-01-31,expense,178.32,Healthcare
+2021-02-01,expense,1687.85,Housing
+2021-02-01,expense,235.41,Utilities
+2021-02-01,expense,213.97,Insurance
+2021-02-01,expense,65.57,Subscriptions
+2021-02-01,expense,202.83,Shopping
+2021-02-04,expense,35.32,Transportation
+2021-02-05,income,1270.73,Rental Income
+2021-02-06,expense,140.87,Groceries
+2021-02-07,income,1024.04,Freelance
+2021-02-07,expense,131.22,Dining Out
+2021-02-08,expense,53.86,Healthcare
+2021-02-09,expense,195.23,Healthcare
+2021-02-10,income,437.36,Investments
+2021-02-10,expense,160.95,Healthcare
+2021-02-11,income,502.36,Side Business
+2021-02-12,expense,66.74,Transportation
+2021-02-13,expense,95.52,Groceries
+2021-02-13,income,695.49,Side Business
+2021-02-13,expense,148.44,Education
+2021-02-14,income,873.6,Freelance
+2021-02-15,income,2403.96,Salary
+2021-02-15,income,1113.48,Freelance
+2021-02-15,expense,238.68,Shopping
+2021-02-16,income,784.5,Freelance
+2021-02-16,expense,34.61,Entertainment
+2021-02-17,expense,71.05,Entertainment
+2021-02-18,expense,111.76,Dining Out
+2021-02-20,expense,31.25,Personal Care
+2021-02-20,expense,142.46,Groceries
+2021-02-21,expense,49.55,Education
+2021-02-21,expense,62.96,Transportation
+2021-02-23,expense,72.16,Dining Out
+2021-02-24,expense,16.13,Personal Care
+2021-02-26,expense,40.58,Transportation
+2021-02-26,expense,88.77,Shopping
+2021-02-27,expense,152.12,Dining Out
+2021-02-27,expense,110.2,Groceries
+2021-02-27,expense,55.71,Transportation
+2021-02-28,expense,85.63,Transportation
+2021-03-01,income,694.47,Freelance
+2021-03-01,expense,1719.85,Housing
+2021-03-01,expense,224.07,Utilities
+2021-03-01,expense,201.3,Insurance
+2021-03-01,expense,66.97,Subscriptions
+2021-03-01,expense,48.94,Entertainment
+2021-03-02,expense,83.05,Shopping
+2021-03-04,expense,33.63,Gifts
+2021-03-04,expense,165.41,Shopping
+2021-03-05,expense,74.76,Transportation
+2021-03-05,income,1215.2,Rental Income
+2021-03-05,expense,42.23,Personal Care
+2021-03-06,expense,151.84,Groceries
+2021-03-06,expense,78.03,Gifts
+2021-03-08,income,638.77,Freelance
+2021-03-08,income,918.27,Side Business
+2021-03-08,expense,88.89,Transportation
+2021-03-09,expense,217.56,Shopping
+2021-03-10,expense,32.68,Personal Care
+2021-03-10,expense,28.25,Entertainment
+2021-03-10,income,398.65,Investments
+2021-03-10,income,605.65,Side Business
+2021-03-11,expense,61.01,Healthcare
+2021-03-13,expense,155.88,Groceries
+2021-03-15,income,556.84,Bonus
+2021-03-15,income,2595.46,Salary
+2021-03-19,expense,62.28,Dining Out
+2021-03-20,expense,140.86,Groceries
+2021-03-20,expense,105.67,Healthcare
+2021-03-21,income,1036.64,Freelance
+2021-03-22,expense,208.49,Healthcare
+2021-03-22,expense,125.24,Healthcare
+2021-03-22,income,871.29,Freelance
+2021-03-22,expense,250.36,Shopping
+2021-03-24,expense,43.53,Entertainment
+2021-03-27,expense,128.52,Groceries
+2021-03-27,expense,49.91,Transportation
+2021-03-28,expense,95.75,Dining Out
+2021-03-30,income,2595.46,Salary
+2021-03-30,expense,80.26,Dining Out
+2021-03-31,expense,67.03,Transportation
+2021-04-01,expense,204.27,Insurance
+2021-04-01,expense,68.04,Subscriptions
+2021-04-01,expense,1641.97,Housing
+2021-04-01,expense,219.84,Utilities
+2021-04-02,income,1086.95,Freelance
+2021-04-02,expense,593.47,Healthcare
+2021-04-03,expense,112.0,Groceries
+2021-04-03,expense,48.48,Entertainment
+2021-04-03,expense,138.22,Dining Out
+2021-04-04,expense,52.6,Transportation
+2021-04-05,income,1215.17,Rental Income
+2021-04-06,expense,52.19,Transportation
+2021-04-08,expense,155.64,Healthcare
+2021-04-08,income,928.16,Freelance
+2021-04-09,income,965.33,Freelance
+2021-04-09,expense,155.29,Dining Out
+2021-04-10,income,397.96,Investments
+2021-04-10,expense,132.55,Groceries
+2021-04-11,expense,161.99,Healthcare
+2021-04-12,income,908.17,Side Business
+2021-04-13,expense,224.62,Shopping
+2021-04-14,income,827.36,Side Business
+2021-04-14,expense,46.58,Personal Care
+2021-04-15,income,2595.46,Salary
+2021-04-15,expense,56.87,Education
+2021-04-17,expense,124.27,Groceries
+2021-04-18,income,1106.57,Freelance
+2021-04-19,expense,96.19,Entertainment
+2021-04-21,income,580.1,Side Business
+2021-04-21,expense,90.62,Healthcare
+2021-04-21,expense,52.7,Personal Care
+2021-04-21,expense,72.72,Entertainment
+2021-04-22,expense,162.13,Shopping
+2021-04-23,expense,138.12,Healthcare
+2021-04-23,expense,95.5,Transportation
+2021-04-23,expense,11.45,Gifts
+2021-04-24,expense,113.26,Groceries
+2021-04-26,expense,44.66,Education
+2021-04-26,expense,61.7,Gifts
+2021-04-27,expense,51.2,Personal Care
+2021-04-28,income,716.79,Freelance
+2021-04-28,expense,19.55,Personal Care
+2021-04-29,expense,75.76,Gifts
+2021-04-30,income,2595.46,Salary
+2021-05-01,expense,81.18,Dining Out
+2021-05-01,expense,93.43,Entertainment
+2021-05-01,expense,101.3,Transportation
+2021-05-01,expense,130.66,Groceries
+2021-05-01,expense,223.49,Utilities
+2021-05-01,expense,203.41,Insurance
+2021-05-01,expense,1633.4,Housing
+2021-05-01,income,960.88,Freelance
+2021-05-01,expense,66.38,Subscriptions
+2021-05-04,income,1022.42,Freelance
+2021-05-05,income,1313.5,Rental Income
+2021-05-05,expense,147.7,Dining Out
+2021-05-06,expense,95.51,Transportation
+2021-05-08,expense,95.82,Transportation
+2021-05-08,expense,247.42,Shopping
+2021-05-08,expense,161.96,Healthcare
+2021-05-08,expense,156.25,Groceries
+2021-05-09,expense,73.72,Dining Out
+2021-05-10,income,430.89,Investments
+2021-05-10,expense,203.69,Healthcare
+2021-05-10,expense,93.73,Healthcare
+2021-05-11,income,1121.69,Freelance
+2021-05-12,expense,149.79,Shopping
+2021-05-13,expense,49.5,Entertainment
+2021-05-14,expense,149.59,Dining Out
+2021-05-15,income,2595.46,Salary
+2021-05-15,expense,120.39,Groceries
+2021-05-16,income,949.43,Freelance
+2021-05-16,expense,137.01,Shopping
+2021-05-17,income,982.5,Freelance
+2021-05-18,expense,91.84,Entertainment
+2021-05-19,expense,92.65,Dining Out
+2021-05-21,income,444.12,Side Business
+2021-05-22,expense,128.17,Groceries
+2021-05-22,expense,87.33,Shopping
+2021-05-22,income,824.24,Side Business
+2021-05-23,expense,157.55,Dining Out
+2021-05-24,income,1033.65,Freelance
+2021-05-25,expense,71.83,Shopping
+2021-05-26,expense,81.69,Education
+2021-05-27,income,1071.95,Freelance
+2021-05-27,expense,57.53,Transportation
+2021-05-27,expense,18.21,Personal Care
+2021-05-27,expense,140.03,Shopping
+2021-05-28,expense,13.82,Personal Care
+2021-05-29,expense,57.55,Transportation
+2021-05-29,expense,106.78,Groceries
+2021-05-30,income,2595.46,Salary
+2021-05-30,income,669.97,Side Business
+2021-05-30,expense,55.3,Shopping
+2021-05-30,expense,78.89,Shopping
+2021-05-31,expense,158.81,Dining Out
+2021-06-01,expense,1636.79,Housing
+2021-06-01,expense,233.33,Utilities
+2021-06-01,expense,202.45,Insurance
+2021-06-01,expense,64.12,Subscriptions
+2021-06-02,expense,79.33,Transportation
+2021-06-02,expense,81.85,Dining Out
+2021-06-03,expense,121.97,Dining Out
+2021-06-05,income,659.64,Freelance
+2021-06-05,income,1236.44,Rental Income
+2021-06-05,expense,127.5,Groceries
+2021-06-05,expense,45.41,Entertainment
+2021-06-05,expense,51.87,Personal Care
+2021-06-07,expense,40.75,Entertainment
+2021-06-07,expense,78.72,Entertainment
+2021-06-07,expense,64.08,Transportation
+2021-06-10,income,428.17,Investments
+2021-06-11,expense,60.1,Entertainment
+2021-06-11,expense,55.04,Gifts
+2021-06-12,expense,131.03,Groceries
+2021-06-12,expense,72.74,Shopping
+2021-06-12,expense,67.55,Entertainment
+2021-06-14,expense,15.39,Personal Care
+2021-06-15,income,2595.46,Salary
+2021-06-15,expense,91.44,Entertainment
+2021-06-16,expense,47.48,Entertainment
+2021-06-18,expense,109.41,Dining Out
+2021-06-19,income,901.35,Freelance
+2021-06-19,expense,135.03,Groceries
+2021-06-19,expense,64.52,Education
+2021-06-22,income,617.08,Freelance
+2021-06-23,expense,20.78,Personal Care
+2021-06-24,expense,84.7,Transportation
+2021-06-24,expense,119.49,Gifts
+2021-06-25,income,440.87,Side Business
+2021-06-26,expense,123.94,Dining Out
+2021-06-26,expense,116.49,Dining Out
+2021-06-26,income,1019.64,Freelance
+2021-06-26,expense,127.24,Groceries
+2021-06-29,expense,86.22,Entertainment
+2021-06-30,income,2595.46,Salary
+2021-06-30,expense,25.78,Gifts
+2021-06-30,expense,42.95,Personal Care
+2021-07-01,expense,82.53,Dining Out
+2021-07-01,expense,67.05,Subscriptions
+2021-07-01,expense,96.33,Dining Out
+2021-07-01,expense,222.99,Utilities
+2021-07-01,expense,1613.74,Housing
+2021-07-01,expense,204.37,Insurance
+2021-07-02,expense,93.57,Transportation
+2021-07-03,expense,134.15,Groceries
+2021-07-03,expense,60.54,Education
+2021-07-04,expense,124.0,Dining Out
+2021-07-05,income,1272.28,Rental Income
+2021-07-05,expense,247.58,Shopping
+2021-07-07,expense,54.19,Dining Out
+2021-07-09,expense,116.26,Education
+2021-07-10,expense,118.03,Groceries
+2021-07-10,income,390.07,Investments
+2021-07-11,income,717.79,Side Business
+2021-07-11,income,905.92,Freelance
+2021-07-12,expense,70.62,Transportation
+2021-07-12,expense,70.96,Healthcare
+2021-07-14,expense,170.31,Shopping
+2021-07-15,income,2595.46,Salary
+2021-07-15,expense,38.61,Healthcare
+2021-07-16,income,500.72,Side Business
+2021-07-16,expense,35.91,Entertainment
+2021-07-17,income,1089.96,Freelance
+2021-07-17,expense,132.73,Groceries
+2021-07-19,expense,36.44,Entertainment
+2021-07-19,expense,93.83,Transportation
+2021-07-20,income,645.09,Freelance
+2021-07-20,expense,92.98,Transportation
+2021-07-20,expense,25.31,Entertainment
+2021-07-22,income,507.64,Side Business
+2021-07-24,expense,124.81,Groceries
+2021-07-24,expense,65.69,Entertainment
+2021-07-25,expense,99.46,Gifts
+2021-07-26,expense,85.41,Dining Out
+2021-07-27,expense,132.81,Dining Out
+2021-07-28,expense,57.97,Transportation
+2021-07-28,income,583.72,Side Business
+2021-07-29,income,1105.92,Freelance
+2021-07-29,income,644.15,Side Business
+2021-07-29,expense,192.85,Healthcare
+2021-07-30,income,2595.46,Salary
+2021-07-30,expense,68.2,Dining Out
+2021-07-31,expense,124.43,Groceries
+2021-07-31,expense,112.84,Healthcare
+2021-08-01,expense,31.73,Personal Care
+2021-08-01,expense,68.59,Subscriptions
+2021-08-01,expense,198.59,Insurance
+2021-08-01,expense,237.64,Utilities
+2021-08-01,expense,1658.75,Housing
+2021-08-02,expense,111.3,Dining Out
+2021-08-03,expense,52.32,Personal Care
+2021-08-03,expense,83.52,Transportation
+2021-08-03,expense,109.74,Healthcare
+2021-08-04,expense,158.89,Dining Out
+2021-08-04,expense,42.11,Transportation
+2021-08-05,expense,54.53,Transportation
+2021-08-05,income,1288.22,Rental Income
+2021-08-05,expense,37.4,Entertainment
+2021-08-06,income,806.44,Freelance
+2021-08-06,expense,100.76,Dining Out
+2021-08-07,expense,139.16,Groceries
+2021-08-08,expense,23.67,Entertainment
+2021-08-09,expense,88.37,Entertainment
+2021-08-10,income,371.06,Investments
+2021-08-10,expense,149.27,Education
+2021-08-10,expense,53.77,Transportation
+2021-08-11,expense,56.55,Transportation
+2021-08-11,expense,141.4,Education
+2021-08-11,expense,85.51,Transportation
+2021-08-12,income,956.08,Side Business
+2021-08-13,expense,29.69,Personal Care
+2021-08-14,expense,140.15,Dining Out
+2021-08-14,income,965.35,Freelance
+2021-08-14,expense,121.36,Groceries
+2021-08-14,expense,169.88,Healthcare
+2021-08-15,income,738.56,Side Business
+2021-08-15,income,2595.46,Salary
+2021-08-16,income,654.94,Freelance
+2021-08-16,expense,47.21,Entertainment
+2021-08-16,expense,54.65,Entertainment
+2021-08-18,expense,94.51,Dining Out
+2021-08-19,expense,21.9,Personal Care
+2021-08-21,expense,145.38,Groceries
+2021-08-22,expense,96.57,Dining Out
+2021-08-23,expense,29.7,Entertainment
+2021-08-24,expense,86.99,Dining Out
+2021-08-24,expense,85.7,Dining Out
+2021-08-26,income,931.71,Side Business
+2021-08-26,expense,82.49,Dining Out
+2021-08-28,expense,158.52,Groceries
+2021-08-29,income,509.22,Side Business
+2021-08-29,expense,27.21,Personal Care
+2021-08-30,income,2595.46,Salary
+2021-08-30,expense,156.03,Dining Out
+2021-08-31,expense,69.2,Entertainment
+2021-09-01,expense,63.47,Subscriptions
+2021-09-01,expense,211.49,Insurance
+2021-09-01,expense,78.85,Entertainment
+2021-09-01,expense,1583.42,Housing
+2021-09-01,expense,231.57,Utilities
+2021-09-02,expense,88.45,Dining Out
+2021-09-04,expense,136.02,Groceries
+2021-09-05,income,1324.75,Rental Income
+2021-09-06,expense,52.24,Transportation
+2021-09-07,income,913.18,Side Business
+2021-09-07,expense,27.22,Entertainment
+2021-09-08,expense,32.31,Entertainment
+2021-09-09,expense,32.47,Entertainment
+2021-09-09,income,813.36,Freelance
+2021-09-10,income,439.79,Investments
+2021-09-10,expense,86.84,Dining Out
+2021-09-11,expense,127.02,Groceries
+2021-09-11,expense,55.04,Dining Out
+2021-09-12,expense,103.63,Transportation
+2021-09-14,income,981.99,Freelance
+2021-09-14,expense,41.36,Shopping
+2021-09-15,income,2595.46,Salary
+2021-09-15,expense,126.78,Dining Out
+2021-09-16,expense,96.04,Transportation
+2021-09-16,expense,173.78,Shopping
+2021-09-18,expense,126.14,Groceries
+2021-09-18,expense,15.04,Personal Care
+2021-09-21,income,1091.64,Freelance
+2021-09-22,expense,102.01,Transportation
+2021-09-23,expense,19.37,Personal Care
+2021-09-24,income,945.65,Side Business
+2021-09-25,expense,121.66,Groceries
+2021-09-26,income,749.44,Freelance
+2021-09-26,expense,91.18,Entertainment
+2021-09-29,expense,105.43,Transportation
+2021-09-30,income,551.52,Side Business
+2021-09-30,income,2595.46,Salary
+2021-09-30,income,814.58,Freelance
+2021-10-01,expense,1586.41,Housing
+2021-10-01,expense,234.47,Utilities
+2021-10-01,expense,198.47,Insurance
+2021-10-01,expense,65.58,Subscriptions
+2021-10-02,expense,130.63,Groceries
+2021-10-02,expense,23.23,Personal Care
+2021-10-03,expense,124.15,Shopping
+2021-10-04,expense,66.6,Transportation
+2021-10-04,expense,149.38,Healthcare
+2021-10-04,expense,127.61,Healthcare
+2021-10-04,income,1105.98,Freelance
+2021-10-05,income,1312.75,Rental Income
+2021-10-07,expense,31.06,Personal Care
+2021-10-07,expense,69.26,Transportation
+2021-10-07,expense,33.03,Transportation
+2021-10-08,expense,134.41,Dining Out
+2021-10-09,expense,111.29,Groceries
+2021-10-09,expense,142.62,Dining Out
+2021-10-10,income,409.21,Investments
+2021-10-10,expense,11.18,Personal Care
+2021-10-14,expense,16.6,Personal Care
+2021-10-15,income,2595.46,Salary
+2021-10-15,expense,73.71,Transportation
+2021-10-16,income,802.5,Freelance
+2021-10-16,expense,115.03,Groceries
+2021-10-17,income,1135.01,Freelance
+2021-10-17,income,553.37,Side Business
+2021-10-17,expense,248.73,Shopping
+2021-10-18,expense,145.29,Dining Out
+2021-10-18,expense,168.5,Healthcare
+2021-10-19,expense,87.67,Entertainment
+2021-10-19,income,920.81,Freelance
+2021-10-20,income,661.53,Side Business
+2021-10-21,expense,75.51,Dining Out
+2021-10-21,expense,476.84,Education
+2021-10-22,expense,25.68,Personal Care
+2021-10-23,income,642.56,Side Business
+2021-10-23,expense,132.53,Groceries
+2021-10-23,expense,48.81,Transportation
+2021-10-23,expense,81.05,Dining Out
+2021-10-24,income,574.07,Side Business
+2021-10-24,expense,85.24,Transportation
+2021-10-24,expense,132.09,Dining Out
+2021-10-24,expense,81.4,Shopping
+2021-10-26,expense,73.96,Transportation
+2021-10-27,expense,251.72,Shopping
+2021-10-28,expense,245.23,Shopping
+2021-10-30,income,827.35,Side Business
+2021-10-30,expense,159.0,Groceries
+2021-10-30,income,2595.46,Salary
+2021-10-30,income,916.82,Freelance
+2021-10-31,expense,37.75,Healthcare
+2021-10-31,expense,132.02,Dining Out
+2021-10-31,expense,109.36,Dining Out
+2021-11-01,income,914.16,Side Business
+2021-11-01,expense,1616.66,Housing
+2021-11-01,expense,233.73,Utilities
+2021-11-01,expense,211.71,Insurance
+2021-11-01,expense,63.93,Subscriptions
+2021-11-01,expense,142.21,Shopping
+2021-11-02,expense,24.54,Gifts
+2021-11-03,expense,64.4,Healthcare
+2021-11-05,expense,104.72,Education
+2021-11-05,income,1273.36,Rental Income
+2021-11-05,expense,108.08,Dining Out
+2021-11-06,expense,169.38,Groceries
+2021-11-06,expense,44.68,Entertainment
+2021-11-07,income,1022.59,Freelance
+2021-11-07,expense,88.06,Transportation
+2021-11-08,expense,104.97,Transportation
+2021-11-08,expense,83.82,Shopping
+2021-11-09,income,748.27,Freelance
+2021-11-10,expense,88.46,Transportation
+2021-11-10,income,387.93,Investments
+2021-11-11,expense,24.65,Personal Care
+2021-11-12,expense,103.41,Gifts
+2021-11-12,expense,805.46,Home Improvement
+2021-11-13,expense,164.77,Groceries
+2021-11-13,expense,27.98,Gifts
+2021-11-15,income,2595.46,Salary
+2021-11-15,expense,49.7,Personal Care
+2021-11-17,expense,65.93,Gifts
+2021-11-17,income,807.75,Freelance
+2021-11-18,expense,191.02,Shopping
+2021-11-19,expense,30.68,Entertainment
+2021-11-19,expense,86.74,Entertainment
+2021-11-20,expense,160.61,Groceries
+2021-11-20,expense,77.13,Entertainment
+2021-11-22,expense,105.29,Education
+2021-11-24,expense,30.4,Entertainment
+2021-11-26,expense,57.52,Entertainment
+2021-11-27,expense,140.54,Groceries
+2021-11-28,expense,67.16,Transportation
+2021-11-29,expense,95.12,Dining Out
+2021-11-30,expense,129.1,Education
+2021-11-30,income,2595.46,Salary
+2021-11-30,income,757.58,Freelance
+2021-12-01,expense,1653.39,Housing
+2021-12-01,expense,221.95,Utilities
+2021-12-01,expense,213.29,Insurance
+2021-12-01,expense,64.29,Subscriptions
+2021-12-02,expense,85.21,Transportation
+2021-12-03,expense,89.24,Transportation
+2021-12-04,expense,187.22,Groceries
+2021-12-05,income,1289.14,Rental Income
+2021-12-05,expense,233.56,Shopping
+2021-12-06,expense,43.54,Gifts
+2021-12-06,expense,82.51,Dining Out
+2021-12-06,income,888.0,Side Business
+2021-12-06,expense,21.4,Education
+2021-12-07,income,796.23,Side Business
+2021-12-07,expense,244.24,Shopping
+2021-12-08,expense,129.77,Shopping
+2021-12-09,expense,89.6,Healthcare
+2021-12-10,income,380.8,Investments
+2021-12-10,expense,89.71,Dining Out
+2021-12-11,expense,109.07,Dining Out
+2021-12-11,income,759.69,Freelance
+2021-12-11,expense,182.65,Groceries
+2021-12-13,expense,109.45,Dining Out
+2021-12-14,expense,254.94,Shopping
+2021-12-15,income,2595.46,Salary
+2021-12-15,expense,172.8,Shopping
+2021-12-15,expense,42.37,Entertainment
+2021-12-17,expense,95.12,Shopping
+2021-12-18,expense,84.19,Dining Out
+2021-12-18,expense,149.51,Groceries
+2021-12-19,income,672.77,Side Business
+2021-12-19,expense,86.3,Entertainment
+2021-12-19,expense,1787.92,Travel
+2021-12-20,expense,264.73,Shopping
+2021-12-22,expense,34.9,Gifts
+2021-12-23,income,630.14,Side Business
+2021-12-23,income,870.83,Freelance
+2021-12-24,expense,157.66,Dining Out
+2021-12-25,expense,167.69,Groceries
+2021-12-25,expense,92.15,Entertainment
+2021-12-26,expense,39.52,Transportation
+2021-12-26,income,947.96,Freelance
+2021-12-27,income,723.28,Side Business
+2021-12-28,income,949.15,Freelance
+2021-12-28,expense,198.04,Shopping
+2021-12-30,income,2595.46,Salary
+2021-12-30,expense,141.45,Dining Out
+2021-12-30,expense,117.86,Dining Out
+2021-12-30,expense,68.54,Dining Out
+2021-12-31,expense,102.77,Dining Out
+2022-01-01,expense,112.82,Dining Out
+2022-01-01,expense,131.46,Groceries
+2022-01-01,expense,67.96,Subscriptions
+2022-01-01,expense,1745.25,Housing
+2022-01-01,expense,234.66,Utilities
+2022-01-01,expense,214.7,Insurance
+2022-01-02,income,646.85,Side Business
+2022-01-03,expense,132.23,Healthcare
+2022-01-04,expense,40.52,Personal Care
+2022-01-05,expense,154.47,Shopping
+2022-01-05,expense,4.22,Gifts
+2022-01-05,income,1277.33,Rental Income
+2022-01-06,expense,14.76,Education
+2022-01-06,expense,46.41,Entertainment
+2022-01-07,income,507.74,Side Business
+2022-01-07,expense,91.36,Transportation
+2022-01-08,expense,130.79,Groceries
+2022-01-09,expense,242.28,Shopping
+2022-01-10,income,397.58,Investments
+2022-01-12,expense,54.0,Entertainment
+2022-01-13,expense,78.13,Dining Out
+2022-01-14,expense,4.36,Gifts
+2022-01-14,income,899.92,Freelance
+2022-01-15,income,2595.46,Salary
+2022-01-15,expense,119.78,Groceries
+2022-01-16,expense,69.8,Entertainment
+2022-01-17,expense,101.33,Entertainment
+2022-01-19,expense,71.31,Dining Out
+2022-01-19,expense,205.42,Shopping
+2022-01-20,expense,43.06,Transportation
+2022-01-20,expense,84.07,Entertainment
+2022-01-21,expense,120.85,Dining Out
+2022-01-22,expense,346.32,Education
+2022-01-22,expense,130.84,Groceries
+2022-01-23,expense,149.02,Dining Out
+2022-01-24,expense,107.05,Dining Out
+2022-01-24,expense,170.45,Shopping
+2022-01-24,expense,79.03,Dining Out
+2022-01-26,income,650.24,Side Business
+2022-01-26,expense,116.98,Dining Out
+2022-01-26,expense,160.81,Dining Out
+2022-01-29,expense,131.59,Groceries
+2022-01-30,expense,53.07,Gifts
+2022-01-30,income,2595.46,Salary
+2022-01-31,expense,133.16,Shopping
+2022-02-01,expense,1718.92,Housing
+2022-02-01,expense,233.24,Utilities
+2022-02-01,expense,213.13,Insurance
+2022-02-01,expense,65.3,Subscriptions
+2022-02-01,expense,149.89,Dining Out
+2022-02-01,expense,27.89,Gifts
+2022-02-02,income,730.28,Side Business
+2022-02-04,expense,40.83,Transportation
+2022-02-04,expense,73.53,Healthcare
+2022-02-04,income,973.46,Side Business
+2022-02-05,income,1290.65,Rental Income
+2022-02-05,expense,101.6,Groceries
+2022-02-05,expense,79.87,Transportation
+2022-02-06,expense,94.52,Transportation
+2022-02-08,income,865.2,Side Business
+2022-02-08,expense,111.09,Dining Out
+2022-02-08,expense,131.14,Dining Out
+2022-02-09,expense,85.82,Healthcare
+2022-02-10,income,422.87,Investments
+2022-02-12,expense,205.53,Shopping
+2022-02-12,expense,142.7,Groceries
+2022-02-14,income,548.88,Side Business
+2022-02-15,income,2595.46,Salary
+2022-02-15,expense,47.07,Gifts
+2022-02-16,expense,92.13,Dining Out
+2022-02-17,income,1136.69,Freelance
+2022-02-19,expense,118.02,Groceries
+2022-02-20,expense,16.25,Education
+2022-02-23,expense,139.18,Education
+2022-02-24,expense,79.89,Entertainment
+2022-02-25,expense,67.8,Transportation
+2022-02-26,expense,30.82,Personal Care
+2022-02-26,expense,119.54,Dining Out
+2022-02-26,expense,102.93,Groceries
+2022-02-28,expense,116.23,Gifts
+2022-03-01,expense,1660.51,Housing
+2022-03-01,expense,236.63,Utilities
+2022-03-01,expense,208.89,Insurance
+2022-03-01,expense,70.95,Subscriptions
+2022-03-01,expense,93.16,Entertainment
+2022-03-02,expense,55.68,Transportation
+2022-03-03,income,458.8,Side Business
+2022-03-04,expense,145.92,Shopping
+2022-03-04,expense,104.75,Education
+2022-03-05,income,1370.28,Rental Income
+2022-03-05,expense,113.43,Groceries
+2022-03-05,expense,130.61,Shopping
+2022-03-05,expense,237.56,Shopping
+2022-03-06,income,793.22,Freelance
+2022-03-07,income,942.79,Freelance
+2022-03-07,expense,83.88,Transportation
+2022-03-07,expense,45.43,Entertainment
+2022-03-08,expense,43.61,Gifts
+2022-03-10,expense,217.14,Shopping
+2022-03-10,expense,50.28,Personal Care
+2022-03-10,income,442.67,Investments
+2022-03-10,income,544.34,Side Business
+2022-03-10,expense,108.36,Dining Out
+2022-03-12,income,1170.72,Freelance
+2022-03-12,expense,122.95,Groceries
+2022-03-12,expense,30.83,Personal Care
+2022-03-13,expense,15.13,Personal Care
+2022-03-15,expense,104.96,Transportation
+2022-03-15,income,802.39,Side Business
+2022-03-15,income,756.29,Bonus
+2022-03-15,income,2758.3,Salary
+2022-03-16,expense,62.56,Dining Out
+2022-03-16,expense,121.02,Shopping
+2022-03-17,expense,124.56,Dining Out
+2022-03-17,expense,41.83,Transportation
+2022-03-18,expense,97.62,Transportation
+2022-03-19,expense,43.93,Transportation
+2022-03-19,expense,143.05,Groceries
+2022-03-21,expense,126.97,Dining Out
+2022-03-22,expense,69.74,Dining Out
+2022-03-22,expense,40.88,Transportation
+2022-03-23,expense,236.4,Shopping
+2022-03-24,expense,104.61,Dining Out
+2022-03-25,income,1038.99,Freelance
+2022-03-25,expense,91.7,Entertainment
+2022-03-26,expense,117.72,Groceries
+2022-03-27,expense,35.21,Entertainment
+2022-03-28,expense,53.48,Transportation
+2022-03-30,income,2758.3,Salary
+2022-03-30,income,889.76,Side Business
+2022-04-01,expense,187.36,Shopping
+2022-04-01,expense,71.8,Subscriptions
+2022-04-01,expense,1667.05,Housing
+2022-04-01,expense,224.67,Utilities
+2022-04-01,expense,201.98,Insurance
+2022-04-02,expense,127.45,Groceries
+2022-04-03,expense,43.44,Healthcare
+2022-04-03,expense,50.25,Personal Care
+2022-04-04,expense,224.9,Shopping
+2022-04-05,income,1329.12,Rental Income
+2022-04-07,expense,149.07,Dining Out
+2022-04-07,income,1046.77,Freelance
+2022-04-08,expense,146.92,Dining Out
+2022-04-08,expense,38.8,Transportation
+2022-04-09,expense,150.23,Groceries
+2022-04-09,expense,80.93,Entertainment
+2022-04-10,income,423.51,Investments
+2022-04-10,expense,107.04,Healthcare
+2022-04-11,income,826.85,Freelance
+2022-04-12,expense,68.62,Transportation
+2022-04-12,expense,136.4,Dining Out
+2022-04-13,income,843.7,Freelance
+2022-04-15,income,2758.3,Salary
+2022-04-15,expense,48.18,Personal Care
+2022-04-15,expense,84.88,Entertainment
+2022-04-16,income,445.44,Side Business
+2022-04-16,expense,130.85,Groceries
+2022-04-17,expense,113.21,Dining Out
+2022-04-17,expense,41.96,Transportation
+2022-04-18,income,821.55,Side Business
+2022-04-19,expense,64.58,Transportation
+2022-04-22,expense,117.67,Gifts
+2022-04-22,income,1019.24,Freelance
+2022-04-23,expense,110.58,Groceries
+2022-04-23,income,674.17,Side Business
+2022-04-25,income,949.1,Side Business
+2022-04-26,expense,88.55,Dining Out
+2022-04-26,expense,92.28,Dining Out
+2022-04-27,expense,76.94,Entertainment
+2022-04-27,expense,96.66,Dining Out
+2022-04-28,expense,113.38,Dining Out
+2022-04-29,income,632.29,Side Business
+2022-04-29,expense,84.19,Entertainment
+2022-04-30,expense,67.8,Entertainment
+2022-04-30,expense,49.69,Entertainment
+2022-04-30,expense,117.86,Groceries
+2022-04-30,income,957.49,Freelance
+2022-04-30,income,2758.3,Salary
+2022-04-30,income,767.58,Side Business
+2022-05-01,expense,1766.48,Housing
+2022-05-01,expense,223.69,Utilities
+2022-05-01,expense,215.93,Insurance
+2022-05-01,expense,65.83,Subscriptions
+2022-05-03,income,948.58,Freelance
+2022-05-03,expense,76.11,Transportation
+2022-05-04,expense,70.42,Gifts
+2022-05-05,income,1298.73,Rental Income
+2022-05-05,expense,108.21,Entertainment
+2022-05-07,expense,112.59,Groceries
+2022-05-07,expense,18.65,Education
+2022-05-08,income,967.42,Side Business
+2022-05-09,expense,160.48,Dining Out
+2022-05-10,income,417.67,Investments
+2022-05-10,expense,100.71,Dining Out
+2022-05-12,expense,136.17,Healthcare
+2022-05-13,expense,98.9,Gifts
+2022-05-13,income,698.32,Freelance
+2022-05-14,expense,131.5,Groceries
+2022-05-14,expense,35.91,Personal Care
+2022-05-15,income,2758.3,Salary
+2022-05-15,income,443.89,Side Business
+2022-05-15,expense,153.56,Dining Out
+2022-05-15,expense,100.47,Transportation
+2022-05-20,expense,37.4,Personal Care
+2022-05-21,expense,133.69,Groceries
+2022-05-22,income,641.03,Side Business
+2022-05-23,expense,62.84,Entertainment
+2022-05-24,expense,111.2,Dining Out
+2022-05-26,expense,47.24,Transportation
+2022-05-27,expense,86.32,Dining Out
+2022-05-28,expense,151.02,Groceries
+2022-05-28,expense,151.02,Dining Out
+2022-05-28,expense,97.4,Entertainment
+2022-05-29,income,1042.79,Freelance
+2022-05-29,expense,108.73,Entertainment
+2022-05-30,income,2758.3,Salary
+2022-05-30,expense,44.82,Personal Care
+2022-05-31,expense,99.64,Healthcare
+2022-05-31,expense,129.65,Dining Out
+2022-06-01,expense,1628.93,Housing
+2022-06-01,expense,232.98,Utilities
+2022-06-01,expense,207.71,Insurance
+2022-06-01,expense,68.45,Subscriptions
+2022-06-01,expense,70.37,Dining Out
+2022-06-02,expense,50.08,Entertainment
+2022-06-04,expense,155.93,Groceries
+2022-06-04,expense,109.57,Healthcare
+2022-06-05,expense,21.83,Entertainment
+2022-06-05,expense,98.49,Transportation
+2022-06-05,income,1353.46,Rental Income
+2022-06-06,income,1135.67,Freelance
+2022-06-06,expense,130.33,Healthcare
+2022-06-07,expense,17.56,Gifts
+2022-06-08,income,693.68,Freelance
+2022-06-08,income,449.24,Side Business
+2022-06-08,expense,58.01,Entertainment
+2022-06-09,expense,19.81,Personal Care
+2022-06-10,income,448.51,Investments
+2022-06-11,expense,151.18,Groceries
+2022-06-12,expense,90.1,Dining Out
+2022-06-13,expense,56.93,Dining Out
+2022-06-14,income,739.91,Freelance
+2022-06-14,expense,83.89,Dining Out
+2022-06-14,expense,37.13,Transportation
+2022-06-15,income,2758.3,Salary
+2022-06-16,income,988.99,Freelance
+2022-06-17,expense,50.58,Entertainment
+2022-06-17,expense,96.82,Transportation
+2022-06-18,expense,149.91,Groceries
+2022-06-19,expense,78.78,Transportation
+2022-06-19,income,1020.01,Freelance
+2022-06-19,expense,122.68,Dining Out
+2022-06-21,expense,47.39,Entertainment
+2022-06-21,expense,101.13,Entertainment
+2022-06-22,income,917.84,Freelance
+2022-06-22,expense,200.52,Shopping
+2022-06-23,income,718.92,Freelance
+2022-06-23,income,688.53,Side Business
+2022-06-23,expense,24.58,Entertainment
+2022-06-24,expense,138.19,Dining Out
+2022-06-25,expense,147.46,Groceries
+2022-06-25,income,669.53,Freelance
+2022-06-26,expense,16.67,Education
+2022-06-26,expense,28.01,Personal Care
+2022-06-27,expense,136.25,Healthcare
+2022-06-27,expense,142.73,Dining Out
+2022-06-28,expense,97.57,Shopping
+2022-06-28,expense,41.53,Transportation
+2022-06-29,expense,70.38,Dining Out
+2022-06-29,expense,64.72,Gifts
+2022-06-30,income,2758.3,Salary
+2022-07-01,expense,1748.5,Housing
+2022-07-01,expense,226.39,Utilities
+2022-07-01,expense,202.25,Insurance
+2022-07-01,expense,67.49,Subscriptions
+2022-07-01,expense,61.45,Transportation
+2022-07-02,income,622.69,Side Business
+2022-07-02,expense,131.38,Groceries
+2022-07-02,expense,130.32,Dining Out
+2022-07-03,expense,28.39,Entertainment
+2022-07-03,expense,56.14,Entertainment
+2022-07-04,income,471.72,Side Business
+2022-07-05,income,1316.72,Rental Income
+2022-07-05,expense,100.25,Entertainment
+2022-07-06,expense,75.51,Healthcare
+2022-07-09,expense,117.97,Groceries
+2022-07-09,expense,30.48,Education
+2022-07-10,income,445.63,Investments
+2022-07-10,expense,80.71,Healthcare
+2022-07-12,expense,72.38,Education
+2022-07-12,expense,118.77,Dining Out
+2022-07-13,expense,101.09,Dining Out
+2022-07-13,expense,46.24,Education
+2022-07-15,income,2758.3,Salary
+2022-07-15,income,983.98,Side Business
+2022-07-16,expense,144.84,Groceries
+2022-07-18,expense,35.75,Entertainment
+2022-07-18,expense,23.19,Education
+2022-07-21,expense,61.55,Transportation
+2022-07-21,expense,97.83,Dining Out
+2022-07-23,expense,87.84,Transportation
+2022-07-23,expense,127.22,Groceries
+2022-07-23,income,824.65,Freelance
+2022-07-26,expense,74.16,Dining Out
+2022-07-28,expense,43.3,Transportation
+2022-07-29,expense,7.26,Education
+2022-07-30,income,2758.3,Salary
+2022-07-30,income,1027.89,Freelance
+2022-07-30,expense,118.02,Groceries
+2022-07-30,expense,89.72,Transportation
+2022-07-31,expense,50.47,Entertainment
+2022-07-31,expense,34.5,Personal Care
+2022-07-31,income,732.18,Freelance
+2022-08-01,income,1189.87,Freelance
+2022-08-01,expense,1632.85,Housing
+2022-08-01,expense,237.67,Utilities
+2022-08-01,expense,219.41,Insurance
+2022-08-01,expense,71.91,Subscriptions
+2022-08-01,expense,91.36,Entertainment
+2022-08-02,income,833.83,Freelance
+2022-08-03,expense,96.16,Dining Out
+2022-08-04,expense,123.87,Shopping
+2022-08-05,income,1332.09,Rental Income
+2022-08-05,expense,73.39,Entertainment
+2022-08-06,expense,162.14,Groceries
+2022-08-06,expense,185.94,Shopping
+2022-08-07,expense,55.9,Healthcare
+2022-08-08,expense,31.97,Personal Care
+2022-08-10,income,396.52,Investments
+2022-08-12,expense,56.1,Entertainment
+2022-08-13,expense,138.22,Groceries
+2022-08-14,expense,22.17,Entertainment
+2022-08-14,income,499.64,Side Business
+2022-08-15,expense,192.85,Shopping
+2022-08-15,expense,100.25,Entertainment
+2022-08-15,income,2758.3,Salary
+2022-08-16,income,1185.53,Freelance
+2022-08-16,expense,174.87,Healthcare
+2022-08-17,expense,97.08,Dining Out
+2022-08-17,expense,111.61,Dining Out
+2022-08-18,income,955.47,Freelance
+2022-08-18,expense,43.44,Personal Care
+2022-08-20,expense,122.06,Groceries
+2022-08-20,expense,215.8,Healthcare
+2022-08-22,income,873.95,Freelance
+2022-08-23,income,845.03,Side Business
+2022-08-23,expense,47.44,Personal Care
+2022-08-24,expense,77.92,Entertainment
+2022-08-25,expense,149.05,Dining Out
+2022-08-27,expense,144.45,Groceries
+2022-08-27,expense,83.9,Transportation
+2022-08-27,expense,45.93,Entertainment
+2022-08-28,expense,164.7,Healthcare
+2022-08-28,expense,53.91,Transportation
+2022-08-29,expense,99.65,Entertainment
+2022-08-30,income,2758.3,Salary
+2022-08-30,expense,78.47,Transportation
+2022-08-31,income,537.03,Side Business
+2022-09-01,expense,1670.43,Housing
+2022-09-01,expense,228.97,Utilities
+2022-09-01,expense,207.75,Insurance
+2022-09-01,expense,71.66,Subscriptions
+2022-09-01,expense,100.25,Transportation
+2022-09-02,expense,467.69,Healthcare
+2022-09-02,expense,108.97,Dining Out
+2022-09-03,expense,114.78,Groceries
+2022-09-03,expense,67.35,Transportation
+2022-09-04,income,775.75,Freelance
+2022-09-05,income,1301.25,Rental Income
+2022-09-05,expense,194.2,Shopping
+2022-09-05,expense,61.93,Entertainment
+2022-09-06,expense,69.81,Dining Out
+2022-09-07,expense,108.55,Entertainment
+2022-09-07,income,901.88,Freelance
+2022-09-07,expense,30.19,Personal Care
+2022-09-08,expense,43.15,Entertainment
+2022-09-08,income,993.19,Side Business
+2022-09-10,income,1119.62,Freelance
+2022-09-10,income,421.73,Investments
+2022-09-10,expense,142.95,Groceries
+2022-09-11,income,1088.14,Freelance
+2022-09-11,income,1014.41,Side Business
+2022-09-11,expense,156.72,Dining Out
+2022-09-12,expense,37.66,Transportation
+2022-09-14,expense,17.79,Education
+2022-09-15,expense,243.39,Shopping
+2022-09-15,income,2758.3,Salary
+2022-09-16,income,749.34,Freelance
+2022-09-17,expense,159.84,Groceries
+2022-09-17,expense,91.78,Entertainment
+2022-09-17,expense,146.09,Healthcare
+2022-09-18,expense,97.52,Gifts
+2022-09-19,expense,121.14,Shopping
+2022-09-20,expense,16.08,Personal Care
+2022-09-22,expense,39.79,Personal Care
+2022-09-22,income,918.49,Side Business
+2022-09-22,expense,103.64,Transportation
+2022-09-23,expense,95.75,Healthcare
+2022-09-24,income,663.91,Freelance
+2022-09-24,expense,148.56,Groceries
+2022-09-24,expense,86.35,Transportation
+2022-09-24,expense,124.55,Dining Out
+2022-09-27,expense,36.8,Personal Care
+2022-09-28,expense,232.47,Shopping
+2022-09-30,income,2758.3,Salary
+2022-09-30,expense,114.29,Shopping
+2022-10-01,expense,132.96,Groceries
+2022-10-01,expense,68.78,Subscriptions
+2022-10-01,expense,228.7,Utilities
+2022-10-01,expense,1715.49,Housing
+2022-10-01,expense,204.66,Insurance
+2022-10-05,income,748.01,Freelance
+2022-10-05,income,1281.39,Rental Income
+2022-10-06,expense,238.89,Shopping
+2022-10-06,expense,24.55,Gifts
+2022-10-07,income,883.17,Freelance
+2022-10-07,expense,118.89,Dining Out
+2022-10-08,expense,125.63,Groceries
+2022-10-09,expense,142.17,Dining Out
+2022-10-09,expense,52.08,Shopping
+2022-10-09,income,710.12,Freelance
+2022-10-10,income,730.82,Freelance
+2022-10-10,income,401.24,Investments
+2022-10-13,income,932.05,Side Business
+2022-10-13,expense,64.72,Dining Out
+2022-10-14,income,670.46,Side Business
+2022-10-14,expense,92.12,Healthcare
+2022-10-15,income,2758.3,Salary
+2022-10-15,expense,123.58,Groceries
+2022-10-15,expense,41.56,Education
+2022-10-17,income,1111.59,Freelance
+2022-10-18,expense,231.55,Shopping
+2022-10-21,expense,79.2,Entertainment
+2022-10-21,expense,88.07,Transportation
+2022-10-22,expense,116.8,Groceries
+2022-10-22,expense,60.08,Entertainment
+2022-10-23,income,1063.12,Freelance
+2022-10-23,expense,65.27,Transportation
+2022-10-24,income,484.89,Side Business
+2022-10-24,expense,117.21,Education
+2022-10-25,expense,198.85,Healthcare
+2022-10-25,income,959.87,Freelance
+2022-10-25,income,738.9,Side Business
+2022-10-27,expense,118.44,Gifts
+2022-10-27,expense,103.47,Transportation
+2022-10-28,expense,12.6,Personal Care
+2022-10-29,expense,150.04,Groceries
+2022-10-30,income,2758.3,Salary
+2022-10-31,expense,53.72,Healthcare
+2022-11-01,expense,238.13,Utilities
+2022-11-01,expense,66.83,Subscriptions
+2022-11-01,expense,208.29,Insurance
+2022-11-01,expense,1724.37,Housing
+2022-11-01,income,864.56,Freelance
+2022-11-02,expense,109.83,Dining Out
+2022-11-03,expense,86.8,Entertainment
+2022-11-04,expense,31.66,Entertainment
+2022-11-04,expense,94.98,Shopping
+2022-11-05,expense,154.16,Groceries
+2022-11-05,expense,74.43,Entertainment
+2022-11-05,income,1283.06,Rental Income
+2022-11-06,expense,78.01,Gifts
+2022-11-06,expense,84.39,Entertainment
+2022-11-06,expense,26.06,Entertainment
+2022-11-09,expense,188.53,Shopping
+2022-11-10,income,464.71,Investments
+2022-11-10,expense,132.21,Gifts
+2022-11-11,expense,12.75,Personal Care
+2022-11-12,expense,133.66,Groceries
+2022-11-12,expense,141.91,Shopping
+2022-11-12,expense,133.72,Shopping
+2022-11-13,income,645.63,Freelance
+2022-11-13,expense,13.92,Gifts
+2022-11-14,expense,99.62,Education
+2022-11-14,expense,94.71,Education
+2022-11-14,income,1076.52,Freelance
+2022-11-14,expense,59.47,Dining Out
+2022-11-15,income,2758.3,Salary
+2022-11-15,expense,40.19,Healthcare
+2022-11-15,expense,84.84,Entertainment
+2022-11-15,expense,80.36,Dining Out
+2022-11-16,expense,67.77,Education
+2022-11-17,expense,254.66,Shopping
+2022-11-17,expense,139.24,Shopping
+2022-11-18,expense,57.86,Entertainment
+2022-11-19,income,589.42,Side Business
+2022-11-19,expense,158.19,Groceries
+2022-11-19,expense,72.36,Entertainment
+2022-11-20,expense,74.45,Dining Out
+2022-11-22,income,1147.2,Freelance
+2022-11-22,income,592.93,Side Business
+2022-11-23,expense,52.83,Gifts
+2022-11-24,expense,53.21,Transportation
+2022-11-26,expense,168.6,Groceries
+2022-11-27,expense,222.7,Shopping
+2022-11-28,expense,97.15,Transportation
+2022-11-28,income,810.94,Side Business
+2022-11-28,expense,58.53,Gifts
+2022-11-29,expense,220.93,Shopping
+2022-11-29,expense,127.55,Shopping
+2022-11-30,income,2758.3,Salary
+2022-11-30,expense,87.35,Dining Out
+2022-11-30,expense,63.94,Entertainment
+2022-12-01,expense,106.68,Dining Out
+2022-12-01,expense,267.66,Shopping
+2022-12-01,expense,66.16,Subscriptions
+2022-12-01,expense,1702.28,Housing
+2022-12-01,expense,240.31,Utilities
+2022-12-01,income,1067.62,Freelance
+2022-12-01,expense,206.62,Insurance
+2022-12-02,income,898.49,Side Business
+2022-12-02,expense,119.26,Dining Out
+2022-12-02,expense,59.27,Gifts
+2022-12-03,income,769.03,Side Business
+2022-12-03,expense,191.8,Groceries
+2022-12-04,expense,40.6,Transportation
+2022-12-04,expense,42.35,Entertainment
+2022-12-05,income,1341.93,Rental Income
+2022-12-05,expense,50.12,Shopping
+2022-12-06,income,803.29,Freelance
+2022-12-06,expense,117.01,Dining Out
+2022-12-10,income,421.91,Investments
+2022-12-10,expense,136.5,Groceries
+2022-12-11,expense,266.62,Shopping
+2022-12-12,income,681.55,Side Business
+2022-12-13,expense,202.8,Healthcare
+2022-12-13,expense,44.33,Entertainment
+2022-12-13,expense,40.09,Transportation
+2022-12-13,income,824.73,Freelance
+2022-12-15,income,2758.3,Salary
+2022-12-15,income,947.32,Freelance
+2022-12-15,expense,90.32,Dining Out
+2022-12-16,income,680.4,Freelance
+2022-12-16,expense,228.59,Shopping
+2022-12-17,expense,168.66,Groceries
+2022-12-17,expense,54.91,Education
+2022-12-18,income,767.05,Freelance
+2022-12-19,expense,34.06,Personal Care
+2022-12-21,expense,79.01,Dining Out
+2022-12-22,expense,136.09,Gifts
+2022-12-23,expense,91.53,Shopping
+2022-12-23,expense,207.35,Shopping
+2022-12-24,expense,165.2,Groceries
+2022-12-24,expense,271.57,Shopping
+2022-12-25,expense,46.77,Healthcare
+2022-12-25,expense,99.17,Dining Out
+2022-12-26,expense,100.59,Entertainment
+2022-12-27,expense,49.71,Transportation
+2022-12-27,income,675.58,Freelance
+2022-12-29,expense,99.31,Entertainment
+2022-12-30,income,2758.3,Salary
+2022-12-30,income,1158.25,Freelance
+2022-12-30,expense,108.63,Transportation
+2022-12-31,expense,169.16,Groceries
+2022-12-31,expense,247.43,Shopping
+2022-12-31,expense,23.42,Gifts
+2023-01-01,expense,91.57,Transportation
+2023-01-01,expense,71.18,Subscriptions
+2023-01-01,expense,223.42,Insurance
+2023-01-01,expense,231.89,Utilities
+2023-01-01,expense,1768.19,Housing
+2023-01-02,expense,39.52,Transportation
+2023-01-02,expense,27.68,Entertainment
+2023-01-03,expense,73.05,Dining Out
+2023-01-04,expense,177.15,Shopping
+2023-01-05,income,1410.43,Rental Income
+2023-01-05,expense,140.83,Dining Out
+2023-01-06,expense,85.3,Shopping
+2023-01-07,expense,88.34,Dining Out
+2023-01-07,expense,103.55,Groceries
+2023-01-07,expense,94.27,Transportation
+2023-01-09,income,957.08,Side Business
+2023-01-09,expense,122.97,Shopping
+2023-01-10,income,851.8,Freelance
+2023-01-10,income,431.22,Investments
+2023-01-10,expense,73.05,Transportation
+2023-01-12,expense,120.33,Healthcare
+2023-01-12,expense,94.12,Entertainment
+2023-01-12,income,907.43,Freelance
+2023-01-12,expense,90.07,Transportation
+2023-01-14,income,823.7,Freelance
+2023-01-14,expense,121.39,Groceries
+2023-01-14,expense,57.99,Healthcare
+2023-01-15,income,2758.3,Salary
+2023-01-16,expense,36.02,Personal Care
+2023-01-17,expense,102.06,Transportation
+2023-01-17,expense,94.63,Entertainment
+2023-01-18,expense,42.82,Transportation
+2023-01-19,expense,75.67,Entertainment
+2023-01-20,expense,114.56,Shopping
+2023-01-21,expense,120.14,Groceries
+2023-01-22,expense,120.87,Gifts
+2023-01-22,income,1227.28,Freelance
+2023-01-23,expense,57.64,Healthcare
+2023-01-25,expense,13.25,Personal Care
+2023-01-26,income,839.4,Freelance
+2023-01-28,expense,131.65,Groceries
+2023-01-28,expense,65.97,Healthcare
+2023-01-29,expense,78.38,Transportation
+2023-01-29,expense,81.34,Dining Out
+2023-01-30,income,2758.3,Salary
+2023-01-30,expense,44.61,Entertainment
+2023-02-01,expense,100.08,Transportation
+2023-02-01,expense,69.86,Subscriptions
+2023-02-01,expense,222.81,Insurance
+2023-02-01,expense,231.04,Utilities
+2023-02-01,expense,1671.69,Housing
+2023-02-02,income,1056.74,Freelance
+2023-02-02,expense,76.29,Shopping
+2023-02-03,expense,38.77,Shopping
+2023-02-04,income,1154.64,Freelance
+2023-02-04,expense,121.11,Groceries
+2023-02-05,income,1326.91,Rental Income
+2023-02-06,expense,57.69,Transportation
+2023-02-06,expense,65.95,Dining Out
+2023-02-07,expense,125.2,Dining Out
+2023-02-08,expense,55.99,Entertainment
+2023-02-08,expense,69.52,Transportation
+2023-02-09,expense,254.18,Shopping
+2023-02-10,income,420.9,Investments
+2023-02-10,income,556.58,Side Business
+2023-02-10,expense,163.61,Dining Out
+2023-02-10,expense,94.23,Entertainment
+2023-02-11,expense,148.73,Groceries
+2023-02-11,expense,37.18,Entertainment
+2023-02-13,expense,136.03,Dining Out
+2023-02-13,expense,65.9,Transportation
+2023-02-14,income,1229.07,Freelance
+2023-02-14,expense,88.95,Entertainment
+2023-02-15,income,2758.3,Salary
+2023-02-15,expense,90.1,Transportation
+2023-02-16,expense,32.43,Gifts
+2023-02-16,expense,64.5,Entertainment
+2023-02-17,expense,72.59,Dining Out
+2023-02-18,expense,138.28,Groceries
+2023-02-18,expense,34.32,Entertainment
+2023-02-20,expense,137.99,Dining Out
+2023-02-20,income,1013.58,Side Business
+2023-02-21,expense,161.75,Dining Out
+2023-02-22,income,1039.81,Freelance
+2023-02-22,expense,34.78,Personal Care
+2023-02-23,income,733.48,Freelance
+2023-02-23,expense,186.78,Shopping
+2023-02-25,expense,135.03,Groceries
+2023-02-25,income,1004.64,Freelance
+2023-02-25,income,852.84,Side Business
+2023-02-25,expense,61.5,Dining Out
+2023-02-26,expense,101.57,Transportation
+2023-02-27,income,1004.17,Freelance
+2023-03-01,expense,1821.57,Housing
+2023-03-01,expense,243.13,Utilities
+2023-03-01,expense,223.51,Insurance
+2023-03-01,expense,70.12,Subscriptions
+2023-03-02,expense,41.43,Gifts
+2023-03-03,expense,81.26,Dining Out
+2023-03-04,expense,273.44,Shopping
+2023-03-04,expense,128.7,Groceries
+2023-03-04,expense,213.24,Shopping
+2023-03-05,income,1290.12,Rental Income
+2023-03-06,income,833.38,Side Business
+2023-03-06,expense,44.43,Transportation
+2023-03-06,expense,126.2,Gifts
+2023-03-07,expense,40.74,Transportation
+2023-03-08,expense,146.62,Dining Out
+2023-03-08,expense,132.03,Dining Out
+2023-03-09,expense,143.02,Dining Out
+2023-03-10,expense,79.56,Dining Out
+2023-03-10,expense,92.23,Dining Out
+2023-03-10,income,479.46,Investments
+2023-03-11,expense,118.24,Groceries
+2023-03-12,expense,104.89,Transportation
+2023-03-13,expense,45.3,Transportation
+2023-03-13,expense,15.5,Personal Care
+2023-03-14,expense,93.13,Transportation
+2023-03-14,expense,65.05,Transportation
+2023-03-14,expense,121.6,Dining Out
+2023-03-15,income,2950.15,Salary
+2023-03-15,income,837.49,Freelance
+2023-03-15,income,901.27,Bonus
+2023-03-17,expense,77.62,Transportation
+2023-03-18,expense,153.63,Groceries
+2023-03-21,expense,75.24,Healthcare
+2023-03-22,expense,63.1,Transportation
+2023-03-23,expense,30.16,Personal Care
+2023-03-25,expense,131.33,Groceries
+2023-03-25,expense,86.76,Transportation
+2023-03-26,expense,138.84,Shopping
+2023-03-28,income,1203.23,Freelance
+2023-03-29,expense,105.1,Transportation
+2023-03-29,expense,118.5,Shopping
+2023-03-30,expense,269.63,Shopping
+2023-03-30,expense,91.6,Dining Out
+2023-03-30,income,1232.55,Freelance
+2023-03-30,income,2950.15,Salary
+2023-03-31,income,1172.4,Freelance
+2023-04-01,expense,1656.93,Housing
+2023-04-01,expense,248.17,Utilities
+2023-04-01,expense,217.25,Insurance
+2023-04-01,expense,67.87,Subscriptions
+2023-04-01,expense,164.83,Groceries
+2023-04-01,expense,24.09,Entertainment
+2023-04-02,expense,207.13,Shopping
+2023-04-02,expense,159.69,Dining Out
+2023-04-05,income,1281.0,Rental Income
+2023-04-05,expense,112.82,Shopping
+2023-04-05,expense,92.59,Dining Out
+2023-04-06,expense,122.18,Dining Out
+2023-04-06,expense,24.27,Personal Care
+2023-04-07,expense,96.12,Dining Out
+2023-04-07,expense,115.17,Dining Out
+2023-04-08,expense,139.75,Groceries
+2023-04-09,income,1052.71,Side Business
+2023-04-10,income,504.5,Investments
+2023-04-11,expense,175.5,Shopping
+2023-04-13,expense,38.76,Personal Care
+2023-04-14,expense,76.71,Entertainment
+2023-04-14,expense,275.87,Shopping
+2023-04-15,income,2950.15,Salary
+2023-04-15,expense,121.69,Groceries
+2023-04-15,expense,131.26,Shopping
+2023-04-16,expense,211.31,Shopping
+2023-04-17,income,896.27,Freelance
+2023-04-19,expense,44.52,Gifts
+2023-04-19,income,553.99,Side Business
+2023-04-20,expense,69.24,Transportation
+2023-04-21,expense,106.1,Transportation
+2023-04-21,expense,34.73,Entertainment
+2023-04-22,expense,147.51,Groceries
+2023-04-22,expense,107.28,Dining Out
+2023-04-22,expense,188.07,Healthcare
+2023-04-23,expense,200.34,Healthcare
+2023-04-24,expense,8.97,Gifts
+2023-04-24,expense,84.96,Entertainment
+2023-04-25,expense,218.72,Shopping
+2023-04-26,expense,193.35,Healthcare
+2023-04-26,expense,106.53,Dining Out
+2023-04-27,expense,46.85,Entertainment
+2023-04-28,income,1013.98,Freelance
+2023-04-28,income,670.1,Side Business
+2023-04-28,expense,71.1,Gifts
+2023-04-28,expense,128.26,Dining Out
+2023-04-29,income,898.44,Freelance
+2023-04-29,expense,128.98,Groceries
+2023-04-30,expense,47.97,Healthcare
+2023-04-30,income,2950.15,Salary
+2023-05-01,expense,1765.96,Housing
+2023-05-01,expense,233.26,Utilities
+2023-05-01,expense,217.55,Insurance
+2023-05-01,expense,68.73,Subscriptions
+2023-05-01,expense,97.16,Dining Out
+2023-05-02,expense,74.04,Transportation
+2023-05-03,income,728.22,Side Business
+2023-05-04,expense,137.46,Dining Out
+2023-05-04,income,1071.01,Freelance
+2023-05-05,income,1380.78,Rental Income
+2023-05-06,expense,116.34,Groceries
+2023-05-07,expense,114.52,Dining Out
+2023-05-07,expense,150.48,Dining Out
+2023-05-07,expense,55.2,Personal Care
+2023-05-08,expense,65.88,Entertainment
+2023-05-09,expense,60.03,Healthcare
+2023-05-09,income,839.62,Freelance
+2023-05-10,income,483.58,Investments
+2023-05-12,expense,271.64,Shopping
+2023-05-12,income,745.98,Side Business
+2023-05-13,expense,61.68,Transportation
+2023-05-13,income,910.23,Freelance
+2023-05-13,expense,165.92,Groceries
+2023-05-15,income,2950.15,Salary
+2023-05-15,income,510.04,Side Business
+2023-05-15,expense,101.45,Transportation
+2023-05-16,income,706.03,Freelance
+2023-05-16,expense,58.63,Dining Out
+2023-05-18,income,724.27,Side Business
+2023-05-20,expense,158.29,Groceries
+2023-05-20,expense,72.18,Dining Out
+2023-05-21,expense,38.45,Personal Care
+2023-05-22,expense,104.71,Transportation
+2023-05-22,expense,268.79,Shopping
+2023-05-23,expense,16.38,Personal Care
+2023-05-24,income,1068.14,Freelance
+2023-05-24,expense,111.7,Healthcare
+2023-05-25,expense,193.85,Shopping
+2023-05-26,expense,157.39,Dining Out
+2023-05-27,expense,128.28,Groceries
+2023-05-27,expense,274.54,Shopping
+2023-05-27,expense,122.87,Dining Out
+2023-05-28,expense,145.21,Dining Out
+2023-05-28,income,588.7,Side Business
+2023-05-29,income,776.49,Freelance
+2023-05-29,expense,57.18,Transportation
+2023-05-30,income,2950.15,Salary
+2023-05-30,expense,194.69,Shopping
+2023-05-31,expense,151.96,Shopping
+2023-06-01,expense,71.27,Subscriptions
+2023-06-01,expense,225.94,Insurance
+2023-06-01,expense,112.72,Healthcare
+2023-06-01,expense,1686.25,Housing
+2023-06-01,expense,236.37,Utilities
+2023-06-02,expense,24.17,Entertainment
+2023-06-03,expense,122.98,Groceries
+2023-06-03,expense,99.78,Entertainment
+2023-06-04,expense,73.87,Entertainment
+2023-06-05,income,1279.41,Rental Income
+2023-06-05,expense,85.71,Dining Out
+2023-06-06,income,829.09,Freelance
+2023-06-09,expense,8.46,Education
+2023-06-10,expense,41.31,Personal Care
+2023-06-10,income,433.45,Investments
+2023-06-10,expense,132.89,Groceries
+2023-06-11,expense,94.33,Transportation
+2023-06-11,expense,52.68,Shopping
+2023-06-12,expense,30.68,Personal Care
+2023-06-12,expense,165.9,Dining Out
+2023-06-14,expense,196.86,Healthcare
+2023-06-15,income,2950.15,Salary
+2023-06-15,expense,72.93,Transportation
+2023-06-16,expense,43.88,Healthcare
+2023-06-17,expense,121.96,Groceries
+2023-06-18,expense,22.56,Entertainment
+2023-06-22,expense,5.0,Gifts
+2023-06-23,expense,30.05,Entertainment
+2023-06-23,expense,76.63,Gifts
+2023-06-24,income,707.11,Freelance
+2023-06-24,income,581.09,Side Business
+2023-06-24,expense,163.89,Groceries
+2023-06-24,expense,74.21,Entertainment
+2023-06-27,expense,57.84,Transportation
+2023-06-27,expense,35.31,Entertainment
+2023-06-29,expense,143.16,Dining Out
+2023-06-29,expense,93.47,Transportation
+2023-06-30,income,2950.15,Salary
+2023-06-30,expense,82.2,Shopping
+2023-06-30,expense,93.69,Dining Out
+2023-07-01,expense,135.42,Dining Out
+2023-07-01,expense,103.19,Transportation
+2023-07-01,expense,123.32,Groceries
+2023-07-01,expense,68.22,Subscriptions
+2023-07-01,expense,207.26,Insurance
+2023-07-01,expense,232.1,Utilities
+2023-07-01,expense,1749.03,Housing
+2023-07-03,expense,107.09,Transportation
+2023-07-05,income,1362.77,Rental Income
+2023-07-05,income,915.56,Side Business
+2023-07-05,expense,53.72,Gifts
+2023-07-05,expense,55.55,Transportation
+2023-07-05,expense,54.71,Transportation
+2023-07-06,expense,25.04,Entertainment
+2023-07-06,expense,121.91,Dining Out
+2023-07-08,expense,152.43,Groceries
+2023-07-08,income,739.0,Side Business
+2023-07-10,expense,56.89,Transportation
+2023-07-10,expense,101.48,Dining Out
+2023-07-10,income,471.5,Investments
+2023-07-10,expense,142.61,Dining Out
+2023-07-11,expense,95.56,Transportation
+2023-07-11,expense,125.54,Dining Out
+2023-07-12,expense,100.61,Entertainment
+2023-07-15,income,2950.15,Salary
+2023-07-15,expense,125.32,Groceries
+2023-07-15,expense,12.74,Personal Care
+2023-07-16,income,506.39,Side Business
+2023-07-17,expense,66.67,Transportation
+2023-07-18,expense,27.9,Entertainment
+2023-07-19,expense,26.4,Entertainment
+2023-07-20,expense,125.34,Dining Out
+2023-07-20,expense,29.51,Entertainment
+2023-07-22,expense,159.54,Groceries
+2023-07-22,expense,134.5,Education
+2023-07-27,expense,197.49,Healthcare
+2023-07-27,expense,124.67,Dining Out
+2023-07-29,expense,125.37,Groceries
+2023-07-29,expense,39.25,Personal Care
+2023-07-30,expense,34.52,Entertainment
+2023-07-30,income,2950.15,Salary
+2023-07-31,income,601.69,Side Business
+2023-08-01,expense,1681.98,Housing
+2023-08-01,expense,244.26,Utilities
+2023-08-01,expense,221.86,Insurance
+2023-08-01,expense,68.5,Subscriptions
+2023-08-01,expense,194.75,Healthcare
+2023-08-02,expense,102.57,Entertainment
+2023-08-02,expense,111.07,Entertainment
+2023-08-03,expense,142.69,Shopping
+2023-08-04,expense,175.92,Shopping
+2023-08-05,income,684.38,Freelance
+2023-08-05,income,1307.18,Rental Income
+2023-08-05,expense,157.62,Groceries
+2023-08-05,expense,72.86,Dining Out
+2023-08-06,income,1234.45,Freelance
+2023-08-10,income,433.9,Investments
+2023-08-10,expense,221.62,Healthcare
+2023-08-10,expense,124.24,Shopping
+2023-08-12,expense,65.38,Dining Out
+2023-08-12,expense,150.54,Groceries
+2023-08-13,expense,97.05,Entertainment
+2023-08-14,expense,127.61,Gifts
+2023-08-14,expense,76.76,Entertainment
+2023-08-15,income,2950.15,Salary
+2023-08-15,expense,52.09,Personal Care
+2023-08-16,expense,46.06,Personal Care
+2023-08-17,income,887.63,Freelance
+2023-08-17,expense,53.9,Transportation
+2023-08-18,expense,100.15,Dining Out
+2023-08-19,income,874.19,Freelance
+2023-08-19,expense,167.29,Groceries
+2023-08-19,expense,20.72,Gifts
+2023-08-21,expense,73.43,Entertainment
+2023-08-21,expense,76.9,Transportation
+2023-08-23,expense,76.71,Dining Out
+2023-08-23,expense,92.04,Entertainment
+2023-08-24,expense,68.69,Transportation
+2023-08-25,expense,41.17,Transportation
+2023-08-26,expense,141.91,Groceries
+2023-08-28,expense,100.67,Entertainment
+2023-08-29,income,595.47,Side Business
+2023-08-30,income,2950.15,Salary
+2023-08-30,expense,146.38,Education
+2023-08-30,expense,30.55,Personal Care
+2023-08-31,expense,70.93,Entertainment
+2023-08-31,expense,36.51,Entertainment
+2023-09-01,expense,69.37,Subscriptions
+2023-09-01,expense,220.82,Insurance
+2023-09-01,expense,1679.59,Housing
+2023-09-01,expense,229.08,Utilities
+2023-09-02,expense,164.56,Groceries
+2023-09-03,expense,54.09,Transportation
+2023-09-04,expense,43.32,Entertainment
+2023-09-05,income,1307.42,Rental Income
+2023-09-05,expense,97.96,Dining Out
+2023-09-06,income,943.59,Freelance
+2023-09-07,income,804.12,Freelance
+2023-09-07,expense,77.39,Entertainment
+2023-09-08,income,842.42,Freelance
+2023-09-08,expense,80.19,Dining Out
+2023-09-09,expense,133.15,Groceries
+2023-09-09,expense,210.09,Shopping
+2023-09-10,income,449.87,Investments
+2023-09-11,expense,169.96,Healthcare
+2023-09-13,income,983.35,Freelance
+2023-09-13,expense,58.78,Transportation
+2023-09-13,expense,50.44,Personal Care
+2023-09-14,expense,75.48,Entertainment
+2023-09-15,income,2950.15,Salary
+2023-09-16,expense,130.74,Groceries
+2023-09-16,expense,107.23,Transportation
+2023-09-17,expense,60.27,Dining Out
+2023-09-19,expense,66.54,Education
+2023-09-21,expense,75.87,Transportation
+2023-09-23,income,1129.34,Freelance
+2023-09-23,expense,155.85,Groceries
+2023-09-23,expense,70.09,Dining Out
+2023-09-24,expense,233.29,Shopping
+2023-09-25,expense,39.41,Personal Care
+2023-09-26,income,723.16,Freelance
+2023-09-28,expense,71.56,Dining Out
+2023-09-29,expense,84.94,Shopping
+2023-09-30,expense,68.47,Transportation
+2023-09-30,expense,128.02,Groceries
+2023-09-30,income,798.01,Side Business
+2023-09-30,income,2950.15,Salary
+2023-10-01,expense,1738.85,Housing
+2023-10-01,expense,241.68,Utilities
+2023-10-01,expense,225.96,Insurance
+2023-10-01,expense,73.68,Subscriptions
+2023-10-01,expense,63.64,Transportation
+2023-10-01,expense,54.6,Entertainment
+2023-10-03,expense,43.47,Transportation
+2023-10-04,income,494.76,Side Business
+2023-10-05,expense,108.02,Entertainment
+2023-10-05,income,1288.84,Rental Income
+2023-10-07,expense,113.94,Groceries
+2023-10-07,expense,10.58,Gifts
+2023-10-09,expense,275.61,Shopping
+2023-10-10,income,485.53,Investments
+2023-10-11,income,1159.54,Freelance
+2023-10-12,expense,113.85,Dining Out
+2023-10-13,expense,76.43,Entertainment
+2023-10-14,expense,155.04,Groceries
+2023-10-14,income,537.74,Side Business
+2023-10-15,income,2950.15,Salary
+2023-10-15,income,1039.27,Freelance
+2023-10-15,expense,54.59,Gifts
+2023-10-16,expense,156.36,Dining Out
+2023-10-18,expense,107.12,Shopping
+2023-10-18,expense,24.31,Personal Care
+2023-10-21,expense,137.92,Groceries
+2023-10-24,income,812.25,Side Business
+2023-10-24,expense,229.02,Shopping
+2023-10-27,income,1064.62,Side Business
+2023-10-28,expense,24.89,Entertainment
+2023-10-28,income,948.43,Side Business
+2023-10-28,expense,161.88,Groceries
+2023-10-30,income,2950.15,Salary
+2023-10-30,income,526.94,Side Business
+2023-10-30,expense,60.38,Gifts
+2023-10-31,income,1162.21,Freelance
+2023-10-31,expense,90.69,Entertainment
+2023-10-31,expense,46.19,Personal Care
+2023-11-01,expense,71.44,Subscriptions
+2023-11-01,expense,213.4,Insurance
+2023-11-01,income,1029.35,Side Business
+2023-11-01,expense,1810.65,Housing
+2023-11-01,expense,239.82,Utilities
+2023-11-03,income,929.47,Freelance
+2023-11-03,income,698.0,Side Business
+2023-11-03,expense,50.26,Shopping
+2023-11-03,expense,95.21,Transportation
+2023-11-03,expense,628.16,Shopping
+2023-11-04,expense,179.04,Groceries
+2023-11-05,income,1370.33,Rental Income
+2023-11-07,expense,205.82,Shopping
+2023-11-08,income,959.05,Freelance
+2023-11-08,expense,189.77,Healthcare
+2023-11-08,expense,266.64,Shopping
+2023-11-09,income,901.12,Freelance
+2023-11-09,expense,1.64,Gifts
+2023-11-10,income,436.85,Investments
+2023-11-10,income,983.82,Side Business
+2023-11-10,expense,26.3,Personal Care
+2023-11-11,expense,41.25,Transportation
+2023-11-11,expense,199.97,Groceries
+2023-11-12,income,955.34,Side Business
+2023-11-12,expense,95.34,Healthcare
+2023-11-13,expense,238.05,Shopping
+2023-11-14,income,1171.94,Freelance
+2023-11-14,expense,88.75,Transportation
+2023-11-15,income,2950.15,Salary
+2023-11-15,expense,47.28,Transportation
+2023-11-15,expense,195.47,Healthcare
+2023-11-16,expense,162.26,Shopping
+2023-11-16,expense,136.96,Dining Out
+2023-11-16,income,999.89,Freelance
+2023-11-17,expense,53.81,Entertainment
+2023-11-17,expense,192.37,Shopping
+2023-11-18,income,738.29,Freelance
+2023-11-18,expense,171.51,Groceries
+2023-11-18,expense,127.58,Education
+2023-11-19,expense,166.92,Dining Out
+2023-11-20,expense,88.31,Dining Out
+2023-11-21,expense,107.75,Transportation
+2023-11-21,expense,90.52,Education
+2023-11-22,income,789.89,Freelance
+2023-11-23,income,488.04,Side Business
+2023-11-23,expense,151.51,Shopping
+2023-11-25,expense,189.7,Groceries
+2023-11-27,expense,96.06,Entertainment
+2023-11-27,expense,662.91,Healthcare
+2023-11-29,expense,49.65,Transportation
+2023-11-30,income,2950.15,Salary
+2023-12-01,expense,130.26,Dining Out
+2023-12-01,expense,224.29,Insurance
+2023-12-01,expense,69.12,Subscriptions
+2023-12-01,expense,1768.3,Housing
+2023-12-01,expense,237.36,Utilities
+2023-12-02,expense,145.87,Groceries
+2023-12-02,expense,203.08,Shopping
+2023-12-03,income,864.48,Freelance
+2023-12-03,expense,98.42,Shopping
+2023-12-04,expense,87.37,Entertainment
+2023-12-05,income,1343.62,Rental Income
+2023-12-05,income,592.4,Side Business
+2023-12-07,expense,88.97,Entertainment
+2023-12-07,expense,194.95,Shopping
+2023-12-07,expense,89.26,Entertainment
+2023-12-08,income,890.85,Side Business
+2023-12-08,expense,167.21,Dining Out
+2023-12-09,expense,187.36,Groceries
+2023-12-09,expense,109.83,Entertainment
+2023-12-10,income,416.0,Investments
+2023-12-12,expense,98.87,Transportation
+2023-12-12,expense,35.39,Education
+2023-12-13,income,673.74,Side Business
+2023-12-14,expense,158.89,Dining Out
+2023-12-14,income,716.67,Freelance
+2023-12-15,income,2950.15,Salary
+2023-12-15,expense,47.85,Personal Care
+2023-12-16,expense,183.26,Groceries
+2023-12-16,expense,62.84,Dining Out
+2023-12-17,expense,91.54,Dining Out
+2023-12-17,income,1156.31,Freelance
+2023-12-17,expense,45.5,Entertainment
+2023-12-17,expense,111.99,Healthcare
+2023-12-18,expense,76.33,Transportation
+2023-12-19,expense,165.52,Shopping
+2023-12-20,income,837.96,Side Business
+2023-12-21,expense,89.43,Shopping
+2023-12-21,expense,207.78,Shopping
+2023-12-22,income,1171.38,Freelance
+2023-12-22,expense,46.1,Personal Care
+2023-12-22,expense,120.45,Education
+2023-12-23,expense,199.05,Groceries
+2023-12-24,income,1224.59,Freelance
+2023-12-24,expense,72.07,Transportation
+2023-12-25,expense,41.33,Shopping
+2023-12-25,expense,134.95,Gifts
+2023-12-27,expense,43.53,Shopping
+2023-12-28,income,673.23,Freelance
+2023-12-29,expense,56.42,Dining Out
+2023-12-30,income,2950.15,Salary
+2023-12-30,expense,194.44,Groceries
+2023-12-30,expense,196.5,Shopping
+2023-12-31,expense,141.97,Dining Out
+2023-12-31,expense,138.08,Dining Out
+2024-01-01,expense,72.98,Subscriptions
+2024-01-01,expense,232.1,Insurance
+2024-01-01,expense,42.36,Transportation
+2024-01-01,expense,1811.25,Housing
+2024-01-01,expense,250.78,Utilities
+2024-01-02,expense,111.95,Transportation
+2024-01-03,income,811.19,Side Business
+2024-01-03,expense,106.75,Transportation
+2024-01-03,expense,259.58,Shopping
+2024-01-05,expense,41.16,Entertainment
+2024-01-05,expense,104.1,Dining Out
+2024-01-05,income,1371.53,Rental Income
+2024-01-05,expense,117.62,Dining Out
+2024-01-06,expense,115.68,Groceries
+2024-01-06,expense,0.71,Gifts
+2024-01-07,expense,33.09,Personal Care
+2024-01-07,expense,63.23,Entertainment
+2024-01-08,expense,208.01,Healthcare
+2024-01-09,expense,54.87,Entertainment
+2024-01-10,income,929.36,Freelance
+2024-01-10,income,535.76,Investments
+2024-01-11,expense,112.63,Dining Out
+2024-01-13,expense,97.1,Healthcare
+2024-01-13,expense,110.32,Groceries
+2024-01-14,income,781.65,Freelance
+2024-01-14,expense,53.6,Entertainment
+2024-01-14,expense,86.51,Dining Out
+2024-01-15,income,2950.15,Salary
+2024-01-15,expense,77.15,Dining Out
+2024-01-15,expense,69.49,Transportation
+2024-01-16,income,819.38,Freelance
+2024-01-17,expense,65.65,Dining Out
+2024-01-18,expense,154.75,Dining Out
+2024-01-19,expense,197.05,Healthcare
+2024-01-20,expense,123.96,Groceries
+2024-01-20,expense,195.88,Healthcare
+2024-01-21,expense,136.32,Dining Out
+2024-01-23,expense,168.58,Education
+2024-01-23,expense,74.55,Transportation
+2024-01-24,income,612.51,Side Business
+2024-01-24,expense,23.45,Personal Care
+2024-01-26,expense,204.1,Shopping
+2024-01-27,expense,107.57,Groceries
+2024-01-28,expense,38.3,Entertainment
+2024-01-28,expense,62.12,Shopping
+2024-01-30,income,2950.15,Salary
+2024-01-30,expense,36.75,Entertainment
+2024-02-01,expense,1726.72,Housing
+2024-02-01,expense,253.09,Utilities
+2024-02-01,expense,220.26,Insurance
+2024-02-01,expense,70.29,Subscriptions
+2024-02-03,expense,99.19,Dining Out
+2024-02-03,expense,135.19,Groceries
+2024-02-04,expense,77.64,Shopping
+2024-02-05,expense,28.49,Education
+2024-02-05,income,1393.25,Rental Income
+2024-02-05,expense,203.48,Healthcare
+2024-02-06,expense,98.76,Entertainment
+2024-02-06,expense,96.65,Entertainment
+2024-02-07,expense,17.44,Personal Care
+2024-02-09,expense,183.16,Shopping
+2024-02-10,expense,153.4,Groceries
+2024-02-10,expense,69.69,Transportation
+2024-02-10,income,474.2,Investments
+2024-02-11,income,1133.99,Side Business
+2024-02-12,expense,46.87,Education
+2024-02-14,income,815.33,Freelance
+2024-02-15,income,2950.15,Salary
+2024-02-15,expense,98.14,Transportation
+2024-02-15,expense,27.02,Personal Care
+2024-02-16,expense,186.92,Healthcare
+2024-02-17,expense,111.54,Groceries
+2024-02-17,expense,206.03,Shopping
+2024-02-17,expense,59.13,Healthcare
+2024-02-18,expense,210.09,Healthcare
+2024-02-19,income,1136.57,Freelance
+2024-02-21,expense,38.76,Personal Care
+2024-02-21,expense,86.0,Transportation
+2024-02-22,income,877.77,Side Business
+2024-02-22,expense,39.24,Healthcare
+2024-02-24,expense,125.91,Groceries
+2024-02-24,expense,249.37,Shopping
+2024-02-25,income,1014.1,Side Business
+2024-02-27,expense,65.59,Dining Out
+2024-02-28,expense,145.94,Dining Out
+2024-02-28,expense,105.1,Transportation
+2024-02-29,expense,66.87,Transportation
+2024-02-29,expense,153.76,Dining Out
+2024-02-29,income,1056.51,Freelance
+2024-02-29,income,599.08,Side Business
+2024-03-01,expense,1706.13,Housing
+2024-03-01,expense,253.74,Utilities
+2024-03-01,expense,219.1,Insurance
+2024-03-01,expense,73.74,Subscriptions
+2024-03-02,expense,134.86,Groceries
+2024-03-02,expense,100.25,Dining Out
+2024-03-03,expense,26.09,Gifts
+2024-03-04,expense,58.94,Dining Out
+2024-03-05,expense,126.61,Healthcare
+2024-03-05,expense,35.02,Transportation
+2024-03-05,income,1404.47,Rental Income
+2024-03-05,expense,63.36,Transportation
+2024-03-07,expense,38.88,Transportation
+2024-03-09,expense,146.39,Groceries
+2024-03-10,income,468.02,Investments
+2024-03-11,expense,50.99,Personal Care
+2024-03-13,expense,261.18,Shopping
+2024-03-13,income,713.64,Freelance
+2024-03-14,expense,71.11,Entertainment
+2024-03-14,income,1229.55,Freelance
+2024-03-14,expense,48.96,Shopping
+2024-03-15,income,1075.77,Bonus
+2024-03-15,income,3177.34,Salary
+2024-03-15,income,794.95,Side Business
+2024-03-15,expense,133.77,Dining Out
+2024-03-16,expense,45.81,Transportation
+2024-03-16,income,1072.45,Freelance
+2024-03-16,expense,154.04,Groceries
+2024-03-16,expense,96.89,Dining Out
+2024-03-17,expense,57.53,Entertainment
+2024-03-19,expense,96.64,Dining Out
+2024-03-19,expense,77.17,Gifts
+2024-03-21,income,1017.56,Freelance
+2024-03-21,expense,106.07,Healthcare
+2024-03-23,expense,160.24,Groceries
+2024-03-23,expense,2.7,Education
+2024-03-25,income,967.18,Side Business
+2024-03-25,expense,122.73,Shopping
+2024-03-26,income,935.34,Side Business
+2024-03-26,expense,24.23,Entertainment
+2024-03-28,expense,55.9,Healthcare
+2024-03-28,income,1092.64,Freelance
+2024-03-30,income,3177.34,Salary
+2024-03-30,expense,150.31,Groceries
+2024-03-30,expense,92.94,Entertainment
+2024-03-30,expense,93.0,Entertainment
+2024-04-01,expense,1839.56,Housing
+2024-04-01,expense,258.7,Utilities
+2024-04-01,expense,226.15,Insurance
+2024-04-01,expense,75.88,Subscriptions
+2024-04-01,expense,64.68,Dining Out
+2024-04-02,expense,88.29,Transportation
+2024-04-03,expense,134.26,Dining Out
+2024-04-04,expense,45.71,Personal Care
+2024-04-05,income,1374.62,Rental Income
+2024-04-06,expense,143.99,Groceries
+2024-04-07,expense,97.56,Entertainment
+2024-04-08,expense,94.16,Healthcare
+2024-04-09,income,995.61,Side Business
+2024-04-09,expense,23.9,Personal Care
+2024-04-10,income,467.98,Investments
+2024-04-11,expense,41.72,Entertainment
+2024-04-12,expense,171.59,Dining Out
+2024-04-12,income,1186.58,Freelance
+2024-04-13,expense,167.47,Groceries
+2024-04-13,expense,204.51,Healthcare
+2024-04-15,income,3177.34,Salary
+2024-04-15,expense,54.62,Transportation
+2024-04-15,expense,63.33,Entertainment
+2024-04-16,income,488.81,Side Business
+2024-04-16,expense,55.82,Personal Care
+2024-04-18,expense,102.09,Dining Out
+2024-04-19,expense,146.16,Dining Out
+2024-04-20,expense,153.55,Groceries
+2024-04-21,income,1112.76,Freelance
+2024-04-21,expense,105.55,Transportation
+2024-04-22,income,923.63,Freelance
+2024-04-23,expense,96.06,Transportation
+2024-04-24,expense,167.5,Dining Out
+2024-04-25,expense,163.73,Dining Out
+2024-04-25,expense,63.44,Transportation
+2024-04-26,expense,118.92,Healthcare
+2024-04-27,expense,136.18,Groceries
+2024-04-27,expense,209.75,Healthcare
+2024-04-28,income,861.33,Side Business
+2024-04-29,expense,52.14,Transportation
+2024-04-30,income,1109.89,Freelance
+2024-04-30,income,3177.34,Salary
+2024-04-30,expense,87.3,Dining Out
+2025-06-21,income,1000.0,Housing

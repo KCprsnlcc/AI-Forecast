@@ -58,7 +58,3 @@ The project uses the following models for forecasting:
 
 - **Forecasts**: Saved in `forecasts.csv`.
 - **Visualizations**: Exported as images in the `exports/` directory.
-
-## License
-
-This project is licensed under the MIT License.

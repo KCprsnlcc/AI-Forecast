@@ -1,6 +1,6 @@
 # Forecasting and Transactions Analysis
 
-This project is designed to analyze transactions and generate forecasts using machine learning models.
+This project is designed to analyze transactions and generate forecasts using machine learning models. It includes both a command-line interface and a graphical user interface (GUI).
 
 ## Project Structure
 
@@ -8,6 +8,7 @@ This project is designed to analyze transactions and generate forecasts using ma
 .gitignore
 forecasts.csv               # Contains forecasted data
 main.py                     # Main script to run the analysis
+gui.py                      # Graphical user interface
 transactions.csv            # Contains transaction data
 exports/                    # Directory for exported results
     forecast_comparison.png # Visualization of forecast comparisons
@@ -28,6 +29,7 @@ To run this project, you need the following Python libraries:
 - scikit-learn
 - statsmodels
 - fbprophet (or `prophet` for newer versions)
+- PySide6 (for the GUI)
 
 Install the dependencies using:
 
@@ -37,6 +39,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Command Line Interface
+
 1. Place your transaction data in `transactions.csv`.
 2. Run the main script:
 
@@ -45,6 +49,20 @@ python main.py
 ```
 
 3. The forecasts will be saved in `forecasts.csv`, and visualizations will be exported to the `exports/` directory.
+
+### Graphical User Interface (GUI)
+
+The project includes a user-friendly GUI that provides:
+- Dashboard with financial summary and charts
+- Transaction management
+- Forecast generation and visualization
+- Data analysis tools
+
+To launch the GUI:
+
+```bash
+python gui.py
+```
 
 ## Models
 
@@ -58,6 +76,13 @@ The project uses the following models for forecasting:
 
 - **Forecasts**: Saved in `forecasts.csv`.
 - **Visualizations**: Exported as images in the `exports/` directory.
+
+## GUI Features
+
+- **Dashboard**: View financial summary, quick actions, and charts
+- **Transactions**: Add and manage income and expense transactions
+- **Forecasts**: Generate AI-powered forecasts for different timeframes
+- **Analysis**: Analyze income, expenses, and savings with visualizations
 
 ## Full Documentation
 
